@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 Hey, this is a test !
