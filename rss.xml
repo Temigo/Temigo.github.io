@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Laura Domine]]></title><description><![CDATA[Blog by Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Feb 2018 05:58:16 GMT</lastBuildDate><item><title><![CDATA[Luminous]]></title><description><![CDATA['Luminous' is a science-fiction short story published by Greg Egan in 1995. Starting as a dark thriller, it leads us very quickly on a trail of surprising ideas about mathematics, physics and what we call 'truth'.]]></description><link>https://stanford.edu/~ldomine/posts/luminous/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/luminous/</guid><pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;‘Luminous’ is a science-fiction short story published by Greg Egan in 1995.
+Starting as a dark thriller, it leads us very quickly on a trail of surprising ideas about mathematics, physics and what we call “truth”.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-bea9a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAGFKbrFTRNEv//EABsQAAEFAQEAAAAAAAAAAAAAAAMAAQIREiEj/9oACAEBAAEFAo0Qc4WsoZsoZPNut//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAIAQMBAT8BapNH/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECE//aAAgBAgEBPwGbcs0R/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERMQKh/9oACAEBAAY/ArpeTCPwrUFUf//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQYGR/9oACAEBAAE/ITQcmfYQA9RZkYgzl9RFbFhUopbrxP/aAAwDAQACAAMAAAAQuC//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxATg7JOi//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EKR6uCjp/8QAHhABAAIBBAMAAAAAAAAAAAAAAREhADFBUWGBofD/2gAIAQEAAT8QWFI0JAtGDiJYytLFw0ezHyGunGoZKEQ+nu8JVCh7V55x78VIT3n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Legend&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-d564d.jpg&quot;
+        srcset=&quot;/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-865fd.jpg 240w,
+/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-d40a0.jpg 480w,
+/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-d564d.jpg 960w,
+/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-c67c1.jpg 1440w,
+/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-667be.jpg 1920w,
+/static/Mandel_zoom_11_satellite_double_spiral-0a908c9e90f4b2324e290dcfdabefc2a-bea9a.jpg 2560w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;What if… in the very first seconds of our Universe, truth and logic had fluctuated. A pair of researchers find a defect in mathematics and attempt to map its boundary. It sounds crazy, yet it is hard to say much more without unveiling core ideas of the short story. Just trust me : go to the nearest library and grab this one. It is worth it.&lt;/p&gt;
+&lt;p&gt;I am usually not a fan of hard science-fiction. As you may know it, Greg Egan is a master of the genre. In my opinion, hard SF just feels too much like a lecture. Science fiction is about falling asleep on your textbooks and dreaming. It is not about illustrating some striking aspects of current theories. I was quite surprised to discover in this case that page after page the story flowed naturally and without interruption, despite it playing with non-trivial concepts of contemporary physics and introducing complex, sparkling ideas.&lt;/p&gt;
+&lt;p&gt;Granted, most science-fiction short stories have surprising ideas. A handful of them however have truly deep ideas, that grow with us without us noticing it. I bet ‘Luminous’ is going to stay with me for a long time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: I have since read the sequel entitled ‘Dark Integers’ and published in 2007. It is always hard to follow up after writing a gem, and unfortunately this makes no exception to the rule.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Pirahã language]]></title><description><![CDATA[Human languages share few features that distinguish them from other form of animal communication. One of the most famous is recursion. In any language one can always form an arbitrarily long sentence. Always? Not quite. According to Daniel Everett, up to now the only non-native of the Pirahã Amazonian tribe who has ever understood their language, the Pirahã language does have a sentence of maximal length. Of course this statement stirred a durable controverse among linguists and prompted Noam Chomsky to criticize him as a 'charlatan'. Yet his story is interesting and, in my opinion, worth listening to.]]></description><link>https://stanford.edu/~ldomine/posts/piraha/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/piraha/</guid><pubDate>Sat, 28 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Human languages share few features that distinguish them from other form of animal communication. One of the most famous is recursion. In any language one can always form an arbitrarily long sentence. Always? Not quite. According to Daniel Everett, up to now the only non-native of the Pirahã Amazonian tribe who has ever understood their language, the Pirahã language does have a sentence of maximal length. Of course this statement stirred a durable controverse among linguists and prompted Noam Chomsky to criticize him as a ‘charlatan’. Yet his story is interesting and, in my opinion, worth listening to.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-b1d07.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.4415917843389%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAWsnaydROK//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAIDBBESFP/aAAgBAQABBQI2mehlsytMXM6y4lv/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREi/9oACAEDAQE/AYpl/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESI//aAAgBAgEBPwGbtH//xAAYEAEAAwEAAAAAAAAAAAAAAAAAATEyIv/aAAgBAQAGPwLCmUdWtp//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhEIFBYaH/2gAIAQEAAT8h5yaJ3SX5hFiTfQcX0oiiY//aAAwDAQACAAMAAAAQFM//xAAYEQACAwAAAAAAAAAAAAAAAAAAARFBUf/aAAgBAwEBPxBHojB//8QAGREAAQUAAAAAAAAAAAAAAAAAAAERITFB/9oACAECAQE/EGtEhZ//xAAbEAACAwADAAAAAAAAAAAAAAABIQARMUGB0f/aAAgBAQABPxBMUQBYIvyEQkF4TFsqVrMJSYZhQyyXtFI64U//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Legend&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-d564d.jpg&quot;
+        srcset=&quot;/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-865fd.jpg 240w,
+/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-d40a0.jpg 480w,
+/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-d564d.jpg 960w,
+/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-c67c1.jpg 1440w,
+/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-667be.jpg 1920w,
+/static/Amazonia-17660cd46746ca620a6b30f6f3c471a5-b1d07.jpg 2337w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;What makes Pirahã a language hard to pick up&lt;/h2&gt;
+&lt;p&gt;Before Everett, all the previous missionaries had failed at learning Pirahã. It is thus reputed as a language difficult to learn.
+It is a tonal language (high and low pitch on the vowels). There are only 3 vowels (i, a, o) and 8 consonants (p, t, h, s, b, g, the glottal stop and k). This is one of the smallest inventory of phonemes inventory of any known language. A smaller number of sounds implies that the length of Pirahã words is much longer than it would have been in a language with more sounds.&lt;/p&gt;
+&lt;p&gt;More interestingly, it lacks things that most other languages have: comparatives (big vs bigger) and abstract color words, just to name a few of them. It also distinguishes whether the speaker has seen the action or not (evidentiality). Most of the language can be whistled, hummed or encoded in music. The meaning can thus be solely conveyed through variations of pitch, stress and rhythm.&lt;/p&gt;
+&lt;p&gt;I find this excerpt of Everett’s book, attempting to explain the difficulty of this kind of monolingual study, quite funny:&lt;/p&gt;
+&lt;blockquote&gt;
+Nonetheless, it is hard. Here is a typical exchange, after I had been there long enough to learn the Pirahã expression for *How do you say --- in Pirahã?*:
+&lt;p&gt;“How do you say that?” (I point to a man coming upriver in his canoe.)&lt;/p&gt;
+&lt;p&gt;“Xigihí hi piiboóxio xaaboópai” (The man upriver comes).&lt;/p&gt;
+&lt;p&gt;“Is this right: ‘Xigihí hi piiboóxio xaaboópai’?”&lt;/p&gt;
+&lt;p&gt;“Xaió. Xigihí piiboó xaaboópaitahásibiga” (Right. The man upriver comes.)&lt;/p&gt;
+&lt;p&gt;“What is the difference between ‘Xigihí hi piiboóxio xaaboópai’ and ‘Xigihí piiboó xaaboópaitahásibiga’?”&lt;/p&gt;
+&lt;p&gt;“No difference. They are the same.”&lt;/p&gt;
+&lt;p&gt;Clearly, from the perspective of a linguist, there &lt;em&gt;must&lt;/em&gt; be a difference between the two sentences. But until I learned Pirahã on my own, I had no way of knowing that the difference was that the first sentence means “The man returns upriver” and the second means “I am an eyewitness to the fact that the man returns upriver.” This makes learning the language very rough going indeed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/piraha-57bd9d779ad397f14465331e886661b3-cfd28.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.04296875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABYBAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAABVYvKakB//8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBAhIQ/9oACAEBAAEFAoyOidOZEf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAAgMTL/2gAIAQEABj8ChDKf/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECGBMf/aAAgBAQABPyFRPVfsIAb1XYIq3eH/2gAMAwEAAgADAAAAEC8v/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EI1//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxCKY//EABoQAAIDAQEAAAAAAAAAAAAAAAERACFBoYH/2gAIAQEAAT8QBJYex4GsSIQMX3C4lYTbK7AACTWmf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pirahã people on a canoe.&quot;
+        title=&quot;&quot;
+        src=&quot;/static/piraha-57bd9d779ad397f14465331e886661b3-d564d.jpg&quot;
+        srcset=&quot;/static/piraha-57bd9d779ad397f14465331e886661b3-865fd.jpg 240w,
+/static/piraha-57bd9d779ad397f14465331e886661b3-d40a0.jpg 480w,
+/static/piraha-57bd9d779ad397f14465331e886661b3-d564d.jpg 960w,
+/static/piraha-57bd9d779ad397f14465331e886661b3-cfd28.jpg 1024w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Members of the Pirahã people of Amazonian Brazil. Essential Media &amp;#x26; Entertainment/Smithsonian Channel&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;A life in Amazonia&lt;/h2&gt;
+&lt;p&gt;Daniel Everett packed everything with his family to fly to Amazonia in 1977 and start a monolingual field work, quite a rare occurrence in linguistics fieldwork, for the next 30 years. The Pirahã concept of truth gradually influenced him up to the point of becoming an atheist, which triggered a divorce with his wife. Throughout his main book (&lt;em&gt;Don’t sleep, there are snakes&lt;/em&gt;) one can find many tasty and thoughtful anecdotes of his work.&lt;/p&gt;
+&lt;blockquote&gt;
+This morning was different. (...) A crowd was gathering about twenty feets from my bed on the high bank of the Maici, and all were energetically gesticulating and yelling. Everyone was focused on the beach just across the river from my house. (...) I turned to Kóhoi, my principal language teacher, and asked, &quot;What&apos;s up?&quot; (...) 
+&lt;p&gt;“Don’t you see him over there?” he asked impatiently. “Xigagaí, one of the beings that lives above the clouds, is standing on the beach yelling at us, telling us he will kill us if we go to the jungle.”&lt;/p&gt;
+&lt;p&gt;“Where?” I asked. “I don’t see him.”&lt;/p&gt;
+&lt;p&gt;“Right there!” Kóhoi snapped, looking intently toward the middle of the apparently empty beach.&lt;/p&gt;
+&lt;p&gt;“In the jungle behind the beach?”&lt;/p&gt;
+&lt;p&gt;“No! There on the beach. Look!” he replied with exasperation.&lt;/p&gt;
+&lt;p&gt;In the jungle with the Pirahãs I regularly failed to see wildlife they saw. My inexperienced eyes just weren’t able to see as theirs did.
+But this was different. Even I could tell that there was nothing on that white, sandy beach (…) Maybe there had been something there that I just missed seeing, but they insisted that what they were seeing, Xigagaí, was still there.&lt;/p&gt;
+&lt;p&gt;Everyone continued to look toward the beach. I heard Kristene, my six-year-old daughter, at my side.&lt;/p&gt;
+&lt;p&gt;“What are they looking at, Daddy?”&lt;/p&gt;
+&lt;p&gt;“I don’t know. I can’t see anything.”&lt;/p&gt;
+&lt;p&gt;Kris stood on her toes and peered across the river. Then at me. Then at the Pirahãs. She was as puzzled as I was.&lt;/p&gt;
+&lt;p&gt;(…) Over the more than two decades since that summer morning, I have tried to come to grips with the significance of how two cultures, my European-based culture and the Pirahã’s culture, could see reality so differently. I could never have proved to the Pirahãs that the beach was empty. Nor could they have convinced me that there was anything, much less a spirit, on it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/everett-e55d8b0c8b972ac4816c4b031719b086-168cd.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABw1km0jxH/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAyER/9oACAEBAAEFAmXdK9euAxm1wQf/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BMX//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERAjJRcf/aAAgBAQAGPwKpkmSLQvBLs5H/xAAbEAADAQEAAwAAAAAAAAAAAAAAAREhMUFRYf/aAAgBAQABPyF3Ao1hUWu9Lm4l8LRNVUcvXW+TCslD/9oADAMBAAIAAwAAABC7z//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAIAQMBAT8QypHUf//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESFR/9oACAECAQE/EAurHS//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFhcYGR/9oACAEBAAE/EIxAWF1AJ95yDskJVDet/uJDBp1fOAk3W/almAQEZoPi98ZASBh6z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Everett with Pirahã people.&quot;
+        title=&quot;&quot;
+        src=&quot;/static/everett-e55d8b0c8b972ac4816c4b031719b086-d564d.jpg&quot;
+        srcset=&quot;/static/everett-e55d8b0c8b972ac4816c4b031719b086-865fd.jpg 240w,
+/static/everett-e55d8b0c8b972ac4816c4b031719b086-d40a0.jpg 480w,
+/static/everett-e55d8b0c8b972ac4816c4b031719b086-d564d.jpg 960w,
+/static/everett-e55d8b0c8b972ac4816c4b031719b086-c67c1.jpg 1440w,
+/static/everett-e55d8b0c8b972ac4816c4b031719b086-667be.jpg 1920w,
+/static/everett-e55d8b0c8b972ac4816c4b031719b086-168cd.jpg 2000w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Dan Everett and the Pirahãs in 2009. Photo by Martin Schoeller/AUGUST&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;A heretic linguist ?&lt;/h2&gt;
+&lt;p&gt;When he claimed - almost accidentally - that there existed no recursion in Pirahã language, violating one of the most basic axioms of Chomskyan linguistics, Everett unleashed a violent debate among linguists.
+There has always been much debate to explain how in the world children know so much about language when there is so little evidence available to them. This points to the idea that there is something unique in human biology, dedicated to language. Whether human grammar is innate or not has thus become a focal point. Chomsky and other linguists put forth a hypothesis according to which recursion is the only human component of the faculty of language (this is a very fuzzy summary of &lt;a href=&quot;http://science.sciencemag.org/content/298/5598/1569&quot;&gt;The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?&lt;/a&gt; of Marc Hauser, Noam Chomsky and Tecumseh Fitch). A language lacking this basic recursion would endanger Chomsky’s whole theory about language and grammar, and as you may know already Chomsky has been an extremely prominent figure of linguistics for the past decades. The debate is still ongoing and you can find a more detailed account of it by Everett himself &lt;a href=&quot;https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-said-it-is&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Don’t sleep, there are snakes: life and language in the Amazonian jungle&lt;/em&gt; (2008). Pantheon Books, New York. Daniel Everett. The title of the book is the literal translation of the Pirahã greeting to say good night. (!) I really recommend this fascinating account of his years spent in the Amazonia jungle among the Pirahãs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Grammar of Happiness.&lt;/em&gt; (2012) Documentary about Daniel Everett’s story.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-said-it-is&quot;&gt;Chomsky, Wolfe and me&lt;/a&gt; A detailed account of the controversy by Everett.&lt;/li&gt;
+&lt;li&gt;Wikipedia.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
