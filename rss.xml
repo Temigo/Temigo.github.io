@@ -1,4 +1,180 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Laura Domine]]></title><description><![CDATA[Blog by Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Feb 2018 05:58:16 GMT</lastBuildDate><item><title><![CDATA[Luminous]]></title><description><![CDATA['Luminous' is a science-fiction short story published by Greg Egan in 1995. Starting as a dark thriller, it leads us very quickly on a trail of surprising ideas about mathematics, physics and what we call 'truth'.]]></description><link>https://stanford.edu/~ldomine/posts/luminous/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/luminous/</guid><pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;‘Luminous’ is a science-fiction short story published by Greg Egan in 1995.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine website]]></title><description><![CDATA[Laura Domine website]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Feb 2018 08:09:46 GMT</lastBuildDate><item><title><![CDATA[Aymara]]></title><description><![CDATA[The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.]]></description><link>https://stanford.edu/~ldomine/posts/aymara/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/aymara/</guid><pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-7f7c2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.4179104477612%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHJxLWKzniP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECEhEh/9oACAEBAAEFAlSNyak6aG/f/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQMBAT8BlD//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEhP/2gAIAQIBAT8Bpo//xAAWEAADAAAAAAAAAAAAAAAAAAAQIDH/2gAIAQEABj8CFT//xAAZEAEBAQADAAAAAAAAAAAAAAABABEQMWH/2gAIAQEAAT8hx9M+s8Yok1f/2gAMAwEAAgADAAAAEEDv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qk//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ELH/xAAdEAABBAIDAAAAAAAAAAAAAAABABEhMUFRYXGR/9oACAEBAAE/EDYeChQMS4RJoOwgTB9YhAGsHlEUXpf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Picture of La Paz&quot;
+        title=&quot;&quot;
+        src=&quot;/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-d564d.jpg&quot;
+        srcset=&quot;/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-865fd.jpg 240w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-d40a0.jpg 480w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-d564d.jpg 960w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-c67c1.jpg 1440w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-667be.jpg 1920w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-85f07.jpg 2880w,
+/static/La_Paz_Skyline-7a8580bcf4b61d363d2aee80686c5aaa-7f7c2.jpg 4288w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;La Paz, Bolivia. Largest city of the Altiplano and highest capital in the world.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Aymara language is spoken by the Aymara people of the Andes, within a large area encompassing Peru, Bolivia and northern Chile. Its native speakers count more than 2 million people and it is one of the official languages of Bolivia and parts of Peru. According to Rodolfo Cerrón-Palomino it could have been the official language of the Incas empire before the Spanish conquest. However it has lost many speakers to Spanish and Quechua. Nowadays most Aymara speakers are located in the Altiplano region.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Aymara-language-domain-en-001-98ba737e5a43322ad951184dfc387e49.svg&quot; alt=&quot;Map of Aymara language&quot;&gt;
+&lt;em&gt;Map of Aymara language&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;The language&lt;/h2&gt;
+&lt;p&gt;It is an agglutinative and SOV (subject-object-verb) language. To a certain extent, it is also polysynthetic. The Spanish missionary were the first to try to create a writing system for Aymara. It is thus written using the latin alphabet.&lt;/p&gt;
+&lt;p&gt;For example, &lt;em&gt;kullakanakaxawa&lt;/em&gt; is made of &lt;em&gt;kullaka&lt;/em&gt; (sister, young woman) + &lt;em&gt;-naka&lt;/em&gt; (plural) + &lt;em&gt;-xa&lt;/em&gt; (possessive suffix, my) + &lt;em&gt;-wa&lt;/em&gt; (emphatic suffix).&lt;/p&gt;
+&lt;p&gt;A short dialog “What is your name ? - My name is Paulu.” could be translated this way:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kunas sutimaxa?&lt;/em&gt; (&lt;em&gt;kuna&lt;/em&gt; what + &lt;em&gt;-s&lt;/em&gt;, interrogation with informative answer ; &lt;em&gt;suti&lt;/em&gt; name + &lt;em&gt;-ma&lt;/em&gt; possessive suffix, yours + &lt;em&gt;-xa&lt;/em&gt; secondary emphatic suffix)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sutixax Pauluwa.&lt;/em&gt; (&lt;em&gt;suti&lt;/em&gt; name + &lt;em&gt;-xa&lt;/em&gt; my + &lt;em&gt;-x(a)&lt;/em&gt; secondary emphatic suffix ; &lt;em&gt;Paulu&lt;/em&gt; Paulu + &lt;em&gt;-wa&lt;/em&gt; emphatic suffix)&lt;/p&gt;
+&lt;p&gt;It is the native language of Evo Morales (president of Bolivia since 2005) and Túpac Katari, an indigenous Aymara leader of a major insurrection during colonial times remembered as a national hero in Bolivia.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-246b4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAByq1zUTSN/8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAAhIDIf/aAAgBAQABBQLkfS5lytUcuVqV/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAfEAACAQIHAAAAAAAAAAAAAAAAARESMSEyQVFhcaH/2gAIAQEABj8CbnEU3M3hTqcrcvT0f//EABsQAQADAQADAAAAAAAAAAAAAAEAESFRMWHw/9oACAEBAAE/IVMIfXKEeB22A6dh3QWMZdpXqhNhdCyf/9oADAMBAAIAAwAAABDIz//EABkRAAIDAQAAAAAAAAAAAAAAAAABESExcf/aAAgBAwEBPxBuVYcH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAf/8QAHBABAQABBQEAAAAAAAAAAAAAAREAITFBUWGR/9oACAEBAAE/EJgiWhXbZl1lGoBPMFoEaRUfmDTp5KcnmABZiQkfTfECJe3d65//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Aymara ceremony&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-d564d.jpg&quot;
+        srcset=&quot;/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-865fd.jpg 240w,
+/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-d40a0.jpg 480w,
+/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-d564d.jpg 960w,
+/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-c67c1.jpg 1440w,
+/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-667be.jpg 1920w,
+/static/Aymara_ceremony_copacabana_4-4b4f9cb710dd66737cf185c2e1493c3e-246b4.jpg 2272w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Aymara ceremony&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Can you see it ?&lt;/h2&gt;
+&lt;p&gt;When we think of time, we often picture it as a line, a path where the past lies behind us while the future is ahead of us. This is true not also for Indo-European languages such as English but also for languages as diverse as Hebrew, Japanese or Bantu. Unlike most of us, for the Aymara people the past is what lies in front of you, because you know it, so you can see it. The future is behind you, since you have no clue about it. &lt;/p&gt;
+&lt;p&gt;The Aymara word for past is &lt;em&gt;nayra&lt;/em&gt;, which literally means eye, sight or front. The future is &lt;em&gt;q’ipa&lt;/em&gt;, which can be translated as behind or the back. In 1975 already Andrew Miracle and Juan de Dios Yapita Moya from the University of Florida noticed that the Aymara word for tomorrow, &lt;em&gt;q’ipüru&lt;/em&gt;, combines &lt;em&gt;q’ipa&lt;/em&gt; (behind) and &lt;em&gt;uru&lt;/em&gt; (day).&lt;/p&gt;
+&lt;p&gt;The Aymara people are not the only ones in the world to use this counter-intuitive representation of time flow. Maori speakers use front-type words to refer to earlier events. Malagasy uses ‘in front of’ to mean ‘earlier than’.&lt;/p&gt;
+&lt;p&gt;Rafael Núñez, a cognitive scientist at UCSD, who carried a very minutious study of this aspect of Aymara language and confirmed this surprising fact, links it to the importance of vision in the whole language. Indeed Aymara uses different markers to tell whether the speaker saw the action happen or not. If eyewitness is so central in Aymara, there should be no wonder that the past becomes what one has seen. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: If you are interested in time representations in languages, I very highly recommend the paper &lt;a href=&quot;http://lera.ucsd.edu/papers/language-time.pdf&quot;&gt;“How Languages Construct Time”&lt;/a&gt; by Lera Boroditsky (2011).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-5b032.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAABR4NQqyI2/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBERIx/9oACAEBAAEFArQpSlOG5Nyf/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAECEf/aAAgBAwEBPwGasf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGVr//EABYQAQEBAAAAAAAAAAAAAAAAADEAIP/aAAgBAQAGPwJmcf/EABsQAAIBBQAAAAAAAAAAAAAAAAABECFRYdHh/9oACAEBAAE/IUzgo6QMR3YP/9oADAMBAAIAAwAAABAfD//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QQsIP/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERQVH/2gAIAQIBAT8Qa7Jaf//EABsQAQADAQADAAAAAAAAAAAAAAEAESGRUaHR/9oACAEBAAE/ECsXUVse75F3BxgYaX5qAyGyf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Lake Titicaca&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-d564d.jpg&quot;
+        srcset=&quot;/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-865fd.jpg 240w,
+/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-d40a0.jpg 480w,
+/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-d564d.jpg 960w,
+/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-c67c1.jpg 1440w,
+/static/Titicacameer1-7fa8f0ae3f931d94987feb924340d028-5b032.jpg 1800w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Lake Titicaca&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Most of the resources / textbooks are in Spanish. Although I don’t speak Spanish, I am quite fortunate that for French speakers, Spanish is easy to understand - at least in its written form. If &lt;em&gt;¡Hola!&lt;/em&gt; is all you understand, you might have to first learn some basic Spanish before diving into Aymara…!&lt;/p&gt;
+&lt;p&gt;Here are the few English resources that you can find.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lake Titicaca. Legend, Myth and Science. Charles Stanish. 2011. Easy to read and with beautiful pictures. Written by UCLA anthropologist Charles Stanish, specialized in Peru, Bolivia and Chile prehistoric societies.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vrcusa.com/Aymara/&quot;&gt;Aymar Arux Akhamawa.&lt;/a&gt; Miguel Huanca. 2011. The author is native to the Altiplano region and has been teaching Aymara for more than two decades at the University of Chicago. This is the only English(/Spanish/Aymara) textbook available to start learning Aymara, and a great resource (with MP3 recordings available).&lt;/li&gt;
+&lt;li&gt;Martha Hardman from the University of Florida is a pioneer linguist of Aymara, which she studied for more than 50 years. People interested in the linguistic aspects will find everything they can dream of in her articles. Miracle and Yapita were her students.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2005/feb/24/4&quot;&gt;How time flies.&lt;/a&gt; Laura Spinney, The Guardian, 2005.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The main resources are unfortunately only in Spanish.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;K’isimira (1 &amp;#x26; 2). Saturnino Gallego. 1994. Vol.1 covers the grammar and vol.2 is dedicated to thematic vocabulary. One of the most extensive, learner-friendly available textbooks (in Spanish).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ilcanet.org/ciberaymara/&quot;&gt;Ciberaymara&lt;/a&gt; is website in Spanish by the Instituto de Lengua y Cultura Aymara to learn Aymara. The material is very good.&lt;/li&gt;
+&lt;li&gt;News in aymara: very recently a channel in Peru has started to broadcast a program in aymara called &lt;a href=&quot;http://www.tvperu.gob.pe/programas/jiwasanaka&quot;&gt;Jiwasanaka&lt;/a&gt;. You can find on their website or on Facebook the videos of the program.&lt;/li&gt;
+&lt;li&gt;Songs in aymara: look for the Awatiñas group. Los Kjarkas, one of the most famous bolivian group of musicians, also recorded a beautiful song in aymara “Ukhamampi munataxa”.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applications to learn Aymara:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kamisaki&lt;/li&gt;
+&lt;li&gt;Aprende Aymara&lt;/li&gt;
+&lt;li&gt;Tutor Móvil Aymara&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dictionaries: Although the reference aymara/spanish dictionary is still Ludovic Bertonio’s 1612 massive edition, these ones are good compromises.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.inkatour.com/dico/index.php?lg=en&quot;&gt;English/Aymara online dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diccionario Bilingüe aymara/castellano. Félix Layme Pairumani. 2004 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bolivia.aymara.free.fr/index_uk.htm&quot;&gt;Thematic aymara basic vocabulary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://eliasreynaldo.blogspot.fr/p/blog-page.html&quot;&gt;Elias Reynaldo’s blog&lt;/a&gt; is full of resources for aymara learning.&lt;/li&gt;
+&lt;li&gt;Jaya Mar Aru. Método para aprender aymara. Lic Mary Mamani Tito &amp;#x26; Qamayu Manuel Alvarado Quispe. 2015. Although grammatical explanations are almost inexistent, it comes with a CD.&lt;/li&gt;
+&lt;li&gt;Aymara Arunaka. Aprenda a leer y escribir en lengua aymara de manera más fácil. Juan Carlos Ancari Gonzalo &amp;#x26; Betsaida A. Sajama Bustillos. 2006. As the title indicates, a basic introduction to the alphabet and vocabulary.&lt;/li&gt;
+&lt;li&gt;Aprendamos el idioma aymara… jugando. Donato Gomez Bacarreza. 2008. Comes with a CD. A concise introduction to basic Aymara.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Books bilingual Aymara/Spanish: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los grandes pensamientos de nuestros antepasados. Laq’a achachilanakan jach’a tayka amuyt’äwinakapa. Carlos Yujra Mamani. 2005.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Books in aymara:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kamsapkakini. Julio Quispe Huañapaco. 2006. A story for children in aymara.&lt;/li&gt;
+&lt;li&gt;Aymar Lup’iwisa, Arsusa, Amuyusa, Sarnaqawisa. Zacarías Alavi Mamani &amp;#x26; Yaqhanakamp kuna. 2008. Stories in aymara.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Luminous]]></title><description><![CDATA['Luminous' is a science-fiction short story published by Greg Egan in 1995. Starting as a dark thriller, it leads us very quickly on a trail of surprising ideas about mathematics, physics and what we call 'truth'.]]></description><link>https://stanford.edu/~ldomine/posts/luminous/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/luminous/</guid><pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;‘Luminous’ is a science-fiction short story published by Greg Egan in 1995.
 Starting as a dark thriller, it leads us very quickly on a trail of surprising ideas about mathematics, physics and what we call “truth”.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -37,7 +213,7 @@ Starting as a dark thriller, it leads us very quickly on a trail of surprising i
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;What if… in the very first seconds of our Universe, truth and logic had fluctuated. A pair of researchers find a defect in mathematics and attempt to map its boundary. It sounds crazy, yet it is hard to say much more without unveiling core ideas of the short story. Just trust me : go to the nearest library and grab this one. It is worth it.&lt;/p&gt;
-&lt;p&gt;I am usually not a fan of hard science-fiction. As you may know it, Greg Egan is a master of the genre. In my opinion, hard SF just feels too much like a lecture. Science fiction is about falling asleep on your textbooks and dreaming. It is not about illustrating some striking aspects of current theories. I was quite surprised to discover in this case that page after page the story flowed naturally and without interruption, despite it playing with non-trivial concepts of contemporary physics and introducing complex, sparkling ideas.&lt;/p&gt;
+&lt;p&gt;I am usually not a fan of hard science-fiction. As you may know, Greg Egan is a master of the genre. In my opinion, hard SF just feels too much like a lecture. Science fiction is about falling asleep on your textbooks and dreaming. It is not about illustrating some striking aspects of current theories. I was quite surprised to discover in this case that page after page the story flowed naturally and without interruption, despite it playing with non-trivial concepts of contemporary physics and introducing complex, sparkling ideas.&lt;/p&gt;
 &lt;p&gt;Granted, most science-fiction short stories have surprising ideas. A handful of them however have truly deep ideas, that grow with us without us noticing it. I bet ‘Luminous’ is going to stay with me for a long time.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Note: I have since read the sequel entitled ‘Dark Integers’ and published in 2007. It is always hard to follow up after writing a gem, and unfortunately this makes no exception to the rule.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Pirahã language]]></title><description><![CDATA[Human languages share few features that distinguish them from other form of animal communication. One of the most famous is recursion. In any language one can always form an arbitrarily long sentence. Always? Not quite. According to Daniel Everett, up to now the only non-native of the Pirahã Amazonian tribe who has ever understood their language, the Pirahã language does have a sentence of maximal length. Of course this statement stirred a durable controverse among linguists and prompted Noam Chomsky to criticize him as a 'charlatan'. Yet his story is interesting and, in my opinion, worth listening to.]]></description><link>https://stanford.edu/~ldomine/posts/piraha/</link><guid isPermaLink="false">https://stanford.edu/~ldomine/posts/piraha/</guid><pubDate>Sat, 28 Oct 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Human languages share few features that distinguish them from other form of animal communication. One of the most famous is recursion. In any language one can always form an arbitrarily long sentence. Always? Not quite. According to Daniel Everett, up to now the only non-native of the Pirahã Amazonian tribe who has ever understood their language, the Pirahã language does have a sentence of maximal length. Of course this statement stirred a durable controverse among linguists and prompted Noam Chomsky to criticize him as a ‘charlatan’. Yet his story is interesting and, in my opinion, worth listening to.&lt;/p&gt;
 &lt;p&gt;

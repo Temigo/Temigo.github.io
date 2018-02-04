@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{352:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Laura Domine website",subtitle:"(aka Temigo)",copyright:"Powered by Gatsby. © All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About",path:"/about/"},{label:"Contact",path:"/contact/"}],author:{name:"Laura Domine",email:"ldomine@stanford.edu",telegram:"#",twitter:"#",github:"Temigo",rss:"#",vk:"#"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-c7bac848fbdead0ff8f8.js.map
