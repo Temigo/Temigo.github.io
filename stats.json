@@ -29,16 +29,16 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-02f71ec9f3edaf5478b7.js",
-      "component---src-layouts-index-jsx-02f71ec9f3edaf5478b7.js.map"
+      "component---src-layouts-index-jsx-a5385cafef3e91fd801f.js",
+      "component---src-layouts-index-jsx-a5385cafef3e91fd801f.js.map"
     ],
     "component---src-templates-category-template-jsx": [
       "component---src-templates-category-template-jsx-b755cb17ab99eccccdc1.js",
       "component---src-templates-category-template-jsx-b755cb17ab99eccccdc1.js.map"
     ],
     "path---projects": [
-      "path---projects-91f5916fe307c21f325c.js",
-      "path---projects-91f5916fe307c21f325c.js.map"
+      "path---projects-d657c84b6afc91f5203a.js",
+      "path---projects-d657c84b6afc91f5203a.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -49,8 +49,8 @@
       "path---categories-sf-5b956cb0c08ddfc4efce.js.map"
     ],
     "component---src-templates-post-template-jsx": [
-      "component---src-templates-post-template-jsx-dca9c46969950a45554f.js",
-      "component---src-templates-post-template-jsx-dca9c46969950a45554f.js.map"
+      "component---src-templates-post-template-jsx-2c1c63275e7d3ee555d1.js",
+      "component---src-templates-post-template-jsx-2c1c63275e7d3ee555d1.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js",
@@ -61,9 +61,9 @@
       "path---index-d72e419ac12b94d07711.js.map"
     ],
     "commons": [
-      "commons-5080809176300c9d0153.js",
+      "commons-134243b53d0960d5c84e.js",
       "build-js-styles.css",
-      "commons-5080809176300c9d0153.js.map",
+      "commons-134243b53d0960d5c84e.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -79,8 +79,8 @@
       "path---contact-5d8f5a234dcb27ff35e9.js.map"
     ],
     "path---posts-piraha": [
-      "path---posts-piraha-5c17a14bdc016ece7ad5.js",
-      "path---posts-piraha-5c17a14bdc016ece7ad5.js.map"
+      "path---posts-piraha-f30fb14662091385b99f.js",
+      "path---posts-piraha-f30fb14662091385b99f.js.map"
     ],
     "path---tags-books": [
       "path---tags-books-a7acd46caba4eaf90e3b.js",
@@ -99,8 +99,8 @@
       "path---tags-sf-37eeccb83e607605c0ea.js.map"
     ],
     "app": [
-      "app-fcd118a5605970ba93fb.js",
-      "app-fcd118a5605970ba93fb.js.map"
+      "app-8910af3c5836f28805d1.js",
+      "app-8910af3c5836f28805d1.js.map"
     ],
     "path---categories-languages": [
       "path---categories-languages-b2d0587ac4fe9922658a.js",
