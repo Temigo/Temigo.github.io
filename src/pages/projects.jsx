@@ -1,15 +1,17 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import Post from '../components/Post';
+import Project from '../components/Project';
 import Sidebar from '../components/Sidebar';
+import Img from 'gatsby-image';
 
 class IndexRoute extends React.Component {
   render() {
     const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
     const posts = this.props.data.allMarkdownRemark.edges;
+    console.log('Hi');
     posts.forEach((post) => {
-      items.push(<Post data={post} key={post.node.fields.slug} />);
+      items.push(<Project data={post} key={post.node.fields.slug} />);
     });
 
     return (
@@ -21,6 +23,8 @@ class IndexRoute extends React.Component {
         <Sidebar {...this.props} />
         <div className="content">
           <div className="content__inner">
+            <h1 className="page__title">Projects</h1>
+            <p>I enjoy(ed) working on these besides my research.</p>
             {items}
           </div>
         </div>
@@ -67,8 +71,14 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date
-            category
             description
+            frontImage {
+                childImageSharp {
+                    sizes(maxWidth: 960) {
+                        ...GatsbyImageSharpSizes
+                    }
+                }
+            }
           }
         }
       }

@@ -35,13 +35,13 @@ module.exports = {
     }
   },
   plugins: [
-    {
+    /*{
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/projects`,
         name: 'projects'
       }
-    },
+    },*/
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -178,6 +178,7 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss-sass',
-    'gatsby-plugin-twitter'
+    'gatsby-plugin-twitter',
+    'gatsby-image',
   ]
 };
