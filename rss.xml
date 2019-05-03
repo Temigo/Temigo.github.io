@@ -1,4 +1,527 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 24 Jan 2019 03:07:57 GMT</lastBuildDate><item><title><![CDATA[Aymara]]></title><description><![CDATA[The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.]]></description><link>https://temigo.github.io/posts/aymara/</link><guid isPermaLink="false">https://temigo.github.io/posts/aymara/</guid><pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Fri, 03 May 2019 20:53:26 GMT</lastBuildDate><item><title><![CDATA[Ghost In The Shell and Man's Fate: across the abyss]]></title><description><![CDATA['Ghost In The Shell' (GITS), in Japanese 攻殻機動隊 (Kōkaku kidōtai) is a famous animation movie directed by Mamoru Oshii that came out in 1995. 'Man's Fate' (1933, 'La condition humaine' in French) is a novel by André Malraux that is no less well-known (at least in France). Both of these works deeply impressed me. After some maturation time, I was astonished to see some parallels emerge and that is what I would like to share with you here.]]></description><link>https://temigo.github.io/posts/gits/</link><guid isPermaLink="false">https://temigo.github.io/posts/gits/</guid><pubDate>Thu, 11 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Disclaimer: I first wrote this text in spring 2015 for &lt;a href=&quot;https://x-passion.binets.fr/#/&quot;&gt;X-Passion&lt;/a&gt;, the students magazine of Ecole polytechnique. This is a translation into English that I hope is not too intricate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ghost In The Shell&lt;/em&gt; (GITS), in Japanese 攻殻機動隊 (Kōkaku kidōtai) is a famous animation movie directed by Mamoru Oshii that came out in 1995. It was adapted from an eponymous science-fiction manga of Masamune Shirow. In 2029 a special government unit, Section 9, to which belong two cyborgs Motoko Kusanagi (called “the major”) and Batō, attempts to capture a mysterious and dangerous hacker, the Puppet Master.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Cover-16410ad8da474b5545d548fcf67a6c4e-5e357.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 427px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140.5152224824356%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEA//aAAwDAQACEAMQAAAB6EJVOe5zh52coo1CgyEf/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAECAxESEyH/2gAIAQEAAQUC+yck0u0V2y26+w6PWI3Fkut0Zzq//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAIAQMBAT8BmdnTWK2jpn//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREhMh/9oACAECAQE/AXwpGtGET//EABsQAAIDAAMAAAAAAAAAAAAAAAARARAxAiGB/9oACAEBAAY/AuhrKUek8XWGUqZ//8QAHBAAAwACAwEAAAAAAAAAAAAAAAERITFBUWFx/9oACAEBAAE/IUoUU7o7vC2rPAQXty8IEpnBfOCMrJPUL2V+icgmi4QtLbIQ22f/2gAMAwEAAgADAAAAEGfS/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EFEdRJMP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAgEBPxB6zgqxX//EAB8QAQEAAgIBBQAAAAAAAAAAAAERACExUYFBYXHR8f/aAAgBAQABPxC2wbw53Mhid4m1O90ec0oj25+sIz84lEm44QAUEg3BIGuUJ4wKXjSj7xT4+c2dsPQxCSz8YVqhVvvn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Cover of *Ghost In The Shell*&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Cover-16410ad8da474b5545d548fcf67a6c4e-5e357.jpg&quot;
+        srcset=&quot;/static/Cover-16410ad8da474b5545d548fcf67a6c4e-14a75.jpg 240w,
+/static/Cover-16410ad8da474b5545d548fcf67a6c4e-5e357.jpg 427w&quot;
+        sizes=&quot;(max-width: 427px) 100vw, 427px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Ghost In The Shell&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It inspired the brothers Wachowsky for a number of scenes in &lt;em&gt;Matrix&lt;/em&gt; (for example the emblem of &lt;em&gt;Matrix&lt;/em&gt;, green caracters falling into columns, already exists in GITS opening). Renowned for its tortuous scenario difficult to grasp, as well as for its philosophical reflections, it is well served by somptuous drawings and music (composed by Kenji Kawai).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/condition-6929af0c01b53b64f8dd4eb8406b7ae0-1caba.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 169.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBgMB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABt+mOn5ukYlUqw6wuW4i3HteVOCf/xAAfEAACAQMFAQAAAAAAAAAAAAACAwABERIEECExMjP/2gAIAQEAAQUCg7D6PhcUMuFVGFiMRXE4xeNQ13lPSPj/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAAQEQH/2gAIAQMBAT8BhFDF/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEQEjH/2gAIAQIBAT8BYzS0/wD/xAAeEAACAQQDAQAAAAAAAAAAAAAAARECECIxEkFxUf/aAAgBAQAGPwI6sp0LOZ2rVN9IxVofw20LkLwfhSf/xAAdEAADAAIDAQEAAAAAAAAAAAAAAREhQTFRYaHw/9oACAEBAAE/IdcHphwlr3ZIwyI10uFfYlNO5hQZN10qTh5RehHTQ2SxlpjbtOj8nqPpCJtmj//aAAwDAQACAAMAAAAQ99JDgA//xAAXEQADAQAAAAAAAAAAAAAAAAAAARBB/9oACAEDAQE/EJqMDP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/EHWDeiyHkf/EACIQAQACAQMDBQAAAAAAAAAAAAEAESExQWFRcZGBobHR8f/aAAgBAQABPxC3C9vD9wIZg+feG20vRSJZrE0wsQAdhK0yB+zleZoV7HOe2+JUHcKDbWB6yiaY7aWfMYs7W3IKjYAUdcVFoKaYjVbrHmALaLc3pEAFTams/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Cover of Man&apos;s Fate&quot;
+        title=&quot;&quot;
+        src=&quot;/static/condition-6929af0c01b53b64f8dd4eb8406b7ae0-1caba.jpg&quot;
+        srcset=&quot;/static/condition-6929af0c01b53b64f8dd4eb8406b7ae0-38c71.jpg 240w,
+/static/condition-6929af0c01b53b64f8dd4eb8406b7ae0-1caba.jpg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Man’s Fate&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Man’s Fate&lt;/em&gt; (1933, &lt;em&gt;La condition humaine&lt;/em&gt; in French) is a novel by André Malraux that is no less well-known (at least in France). It revolves around a group of communist revolutionaries in Shanghai in 1927, to which belong among others the characters Kyo and Tchen. They prepare an insurgency with the nationalists of Tchang Kai-Chek against the government. Historically, this ended with the Shanghai massacre of April 12, 1927, and marked the beginning of the Chinese Civil War which ended only in 1950.&lt;/p&gt;
+&lt;p&gt;Both of these works deeply impressed me, one after the other and each at their own time. After some maturation time, I was astonished to see some parallels emerge and that is what I would like to share with you here.&lt;/p&gt;
+&lt;h2&gt;Rain and water&lt;/h2&gt;
+&lt;p&gt;Towards the middle of GITS one finds a rather long and masterful contemplative sequence during which the city and all its details are observed under different point of views, with solemn choirs in the background. The rain that starts falling at the same time as the night imparts an extraordinary melancholy to the last shots.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHG0mqIon//xAAZEAEBAAMBAAAAAAAAAAAAAAABAgAQESH/2gAIAQEAAQUCmeBINT6aVz//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAwEBAAAAAAAAAAAAAAAAACExARD/2gAIAQEABj8CWEF2n//EABkQAAMBAQEAAAAAAAAAAAAAAAABETGRUf/aAAgBAQABPyEIoEI6Ixr6O+vpVo//2gAMAwEAAgADAAAAEGcf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/ELiH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QR//EABsQAAIDAAMAAAAAAAAAAAAAAAERACExQXGx/9oACAEBAAE/EBOEQ2CS4/Vnbh8wbITuPkFcFC1Z2j/0n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot from GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-865fd.jpg 240w,
+/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-d40a0.jpg 480w,
+/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-d564d.jpg 960w,
+/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-c67c1.jpg 1440w,
+/static/vlcsnap-2015-01-30-17h10m00s195-605f9a47072b35eb8aaffcf67bc3049f-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Slowly filling with the long wail of a siren, the wind which brought the subdued rumble of the city in state of siege and the whistles of launches returning to the warships, passed over the dismal electric bulbs at the ends of blind alleys and lanes; around them crumbling walls emerged from empty darkness, revealed with all their blemishes by that unflinching light from which a sordid eternity seemed to emanate.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In &lt;em&gt;Man’s Fate&lt;/em&gt; a very similar atmosphere can be found: towards the beginning of the novel, the city of Shanghai is described at night with an attention for details that reminds of GITS. The drizzle seems to veil the landscape with the same intensity as in the film.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAVYtjZ0xYP/EABwQAAEDBQAAAAAAAAAAAAAAAAEAESECAxITMf/aAAgBAQABBQLQwJyT0q4ZeBz/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAGRABAAIDAAAAAAAAAAAAAAAAAQARAiAx/9oACAEBAAY/ArWF4k5p/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBYXH/2gAIAQEAAT8h6b+HnVQzsQlx62aC4QJuQ3//2gAMAwEAAgADAAAAEBzv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxCVmH//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/EFrCP//EAB0QAQEBAAEFAQAAAAAAAAAAAAERACExQVFhgaH/2gAIAQEAAT8QKzoULj01kK7BLPuk/I4z1KHQzIgUKw85qHlm/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot from GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-865fd.jpg 240w,
+/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-d40a0.jpg 480w,
+/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-d564d.jpg 960w,
+/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-c67c1.jpg 1440w,
+/static/vlcsnap-2015-01-30-17h09m24s95-9df121ee3bc59bfe86145063c7973093-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The globes which protected the electric bulbs became misty, and in a few minutes the great rain of China, furious, headlong, took possession of the city.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABynV5oKlRF//EABkQAAMBAQEAAAAAAAAAAAAAAAABAwIhMf/aAAgBAQABBQJLu4vI2TKeH//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGsf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABIDFh/9oACAEBAAY/AlRij//EABoQAAMBAQEBAAAAAAAAAAAAAAABESFRMUH/2gAIAQEAAT8hbskv3gpbUelN/EKnbpia5ylP/9oADAMBAAIAAwAAABAU7//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ECH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qla//xAAaEAEBAAMBAQAAAAAAAAAAAAABEQAhMWFB/9oACAEBAAE/EABwzTh+CGj2+Y80Wb1b7iMtn7lKYOUmKrvP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot from GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-865fd.jpg 240w,
+/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-d40a0.jpg 480w,
+/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-d564d.jpg 960w,
+/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-c67c1.jpg 1440w,
+/static/vlcsnap-2015-01-30-17h10m48s166-61fd3c9e71a5b56ad39b87c048a7d552-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“A world from which men had disappeared, a world without end; would daylight ever return upon those crumbling tiles, upon all those narrow streets at the end of which a lantern lighted a windowless wall, a nest of telegraph wires?”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As a matter of fact, water is a recurrent element in GITS. The next excerpt from &lt;em&gt;Man’s Fate&lt;/em&gt; reminds me in a striking way of Major Kusanagi’s diving into the sea.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAcNFVB//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGq/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFxAAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAQABPyGqom6v/9oADAMBAAIAAwAAABC4L//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EIj/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBt/8QAGBABAQEBAQAAAAAAAAAAAAAAAREAEDH/2gAIAQEAAT8QafdccIqq8//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot from GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-865fd.jpg 240w,
+/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-d564d.jpg 960w,
+/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-10-19h01m59s160-44d6492e3c8a179d2da7c47166203bb7-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“He remembered a September afternoon when the solid gray of the sky made a lake’s surface appear milky, in the meshes of vast fields of water-lilies; from the moldy gables of an abandoned pavilion to the magnificent and desolate horizon he only saw a world suffused with a solemn melancholy. Near his idle bell, a Buddhist priest leaned on the balustrade of the pavilion, abandoning his sanctuary to the dust, to the fragrance of burning aromatic woods; peasants gathering water-lily seeds passed by in a boat without the slightest sound; at the edge of the farthest flowers two long waves grew from the rudder, melted listlessly in the gray water. They were vanishing now in himself, gathering in their fan all the oppressiveness of the world, but an oppressiveness without bitterness, brought by opium to an ultimate purity. His eyes shut, carried by great motionless wings, Gisors contemplated his solitude: a desolation that joined the divine, while at the same time the wave of serenity that gently covered the depths of death widened to infinity.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAQCA//aAAwDAQACEAMQAAABQ2JtZ6Uh1f/EABgQAQADAQAAAAAAAAAAAAAAAAEAAhEx/9oACAEBAAEFAq2Zgj0i44T/xAAWEQEBAQAAAAAAAAAAAAAAAAABAhD/2gAIAQMBAT8Bm0z/xAAXEQADAQAAAAAAAAAAAAAAAAABAhAS/9oACAECAQE/ASup/8QAGRAAAQUAAAAAAAAAAAAAAAAAARARIDFB/9oACAEBAAY/AmsQB1P/xAAaEAEBAQEAAwAAAAAAAAAAAAABABExIYHR/9oACAEBAAE/Iej7LyxvyxGzBuI7KYpf/9oADAMBAAIAAwAAABDr7//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QzXoo1af/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFx/9oACAECAQE/EA6kRy//xAAcEAEAAwACAwAAAAAAAAAAAAABABExIXFBUYH/2gAIAQEAAT8QFipiqumLypNAB7E51j8ue9kaEBY88ytFUFn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot from GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-865fd.jpg 240w,
+/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-d564d.jpg 960w,
+/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-10-19h03m25s180-82e004ac729f71dcf0fae694092eca9e-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;なぁ、海へ潜るってどんな感じだ？ ( How is it to swim in the sea ?)&lt;/li&gt;
+&lt;li&gt;恐れ、不安、孤独、闇・・・ それから、もしかしたら希望。(I am afraid, I am cold. But sometimes, deep down, I have hope.)&lt;/li&gt;
+&lt;li&gt;希望？真っ暗な 海の中で？ (Hope? In these dark waters?)&lt;/li&gt;
+&lt;li&gt;海面へ浮かび上がる時、 今迄とは違う自分になれるんじゃないか、(When I float in weightlessness, I become another.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Self-identity: Questions and quests for meaning&lt;/h2&gt;
+&lt;p&gt;The interrogations and reflections of the characters are fundamentally the same in GITS and &lt;em&gt;Man’s Fate&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“It is very rare for a man to be able to endure - how shall I say it? - his condition, his fate as a man…”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;During the whole film Major Kusanagi endeavours to define and accept her human condition in an artificial body. The Puppet Master, at the opposite, attempts to make himself accepted as a living being despite his artificial nature.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“I’ve had the experience of finding myself unexpectedly before a mirror and not recognizing myself…”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Man’s Fate&lt;/em&gt; continually questions what defines men and gives them identity. Kyo does not recognize his own voice when he hears it, Gisors sometimes does not recognize himself in front of a mirror… It is impossible to not link it to the main theme of GITS, the quest of Major Kusanagi (as of the Puppet Master) for a definition of its soul and identity.&lt;/p&gt;
+&lt;p&gt;The echoes of this quest resonate throughout the film. One can think for example of the passage when the Major, standing at the edge of the boat, briefly notices a woman who strangely looks identical.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAVSCvHUHNH//xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEiEhMxM//aAAgBAQABBQJnvmrGqCLC+i8//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIQIRExkf/aAAgBAQAGPwLKlrw2XP8A/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBYYH/2gAIAQEAAT8hY7HvcuAY3ziLNir2Gzpoa2Z+oms//9oADAMBAAIAAwAAABAf/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QTZ//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EIxb/8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFBUWFx/9oACAEBAAE/EOePRWhznkgShNtbu5yVQFoDYNjZtCokAWvqMuV/Z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-865fd.jpg 240w,
+/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-d564d.jpg 960w,
+/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-29-15h26m01s76-c8b77bc0e20dfccda5ce45d7044729af-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/9oADAMBAAIQAxAAAAHPrg0A2DAX/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAAxES/9oACAEBAAEFAp7zTrG5ZgFMnPJn/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPwGNU//EABcRAAMBAAAAAAAAAAAAAAAAAAABEyH/2gAIAQIBAT8BeFEf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAECEBEhMUH/2gAIAQEABj8Cw+l5VZo//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITGR/9oACAEBAAE/IZUhPRniK6Ar3ucQZd6+MOdrf//aAAwDAQACAAMAAAAQ4B//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QVUUf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhYf/aAAgBAgEBPxBnRgf/xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhMWFBcYGRof/aAAgBAQABPxABQAmJNHvMH67suh4qWGymh04+RmY2PO+8xpw4sbpYXSVVbP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-865fd.jpg 240w,
+/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-d564d.jpg 960w,
+/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-29-15h26m14s209-95900a6e5fa610e2bfe5a80200dfbbf5-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“One never knows a human being, but one occasionally ceases to feel that one does not know him.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Does this quote not apply perfectly to the relationship between Batō and Kusanagi? She never ceases to appear as an enigma for Batō, who does not share her existential anguishes; yet he remains her closest confidant.&lt;/p&gt;
+&lt;p&gt;We shouldn’t forget what gave the title (at least the English one) of the film and which recurs multiple times throughout it, the “ghost” (soul inside us) and the “shell”, package hosting the “ghost”. This idea can be found in the Baron Clappique’s reflection:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“No, men do not exist, since a costume is enough to enable one to escape from oneself, to find another life in the eyes of others.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This concept of “ghost” and “shell” is illustrated in GITS by the example of the unfortunate dustman who discovers that his whole world was a fiction… And who has no memories left. Who is he, in the end, without these memories? Memory… which defines men. What can we read about this in &lt;em&gt;Man’s Fate&lt;/em&gt; ?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“How do you expect anyone to understand things, except through mem’ries?…”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Contemplation&lt;/h2&gt;
+&lt;p&gt;One of the striking characteristics of GITS holds in these masterful “silent” passages which punctuate the film: as only Kawai’s music intervenes, the shots and drawings (always wonderful) take turns with an intensity almost more significant than words, truly conveying to the spectator a special atmosphere. These moments bestow the film an extroardinary rhythm and uplift it to a far greater level than simple action movies.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAeSwinmC1Ff/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIDETL/2gAIAQEAAQUCitLloyJZyf/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AWf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAAiD/2gAIAQEABj8CFn//xAAZEAEBAAMBAAAAAAAAAAAAAAABABExUSH/2gAIAQEAAT8h1XsYXC2vMsjMhf/aAAwDAQACAAMAAAAQT9//xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQMBAT8QS2bf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARITFxkf/aAAgBAQABPxAKIUYhQAqO4Le3MrA8i4TWGEscT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-865fd.jpg 240w,
+/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-d564d.jpg 960w,
+/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-10-19h42m07s102-6e228f6784aa098f75caca49ed1bd994-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In my opinion &lt;em&gt;Man’s Fate&lt;/em&gt; owns a similar quality. The novel is interspersed with purely contemplative passages, mixing visual effects and deep reflections, served by an unstained writing style.&lt;/p&gt;
+&lt;h2&gt;Play with light&lt;/h2&gt;
+&lt;p&gt;Another interesting similarity: both the film and the novel make an incisive use of the clarity/obscurity in their incipit. Whether it is the play of moonlight with the shadow of the mosquito net in &lt;em&gt;Man’s Fate&lt;/em&gt;, which characterizes the first murder and by extension the “birth” of Tchen as a terrorist, or the strong contrast between light and dark colors for the “birth” of Major Kusanagi, which reaches its pinnacle during her first awakening in her room, with an almost blinding opposition between the outside daylight and the inside darkness.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAEEBQb/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGBa5xohA//xAAZEAACAwEAAAAAAAAAAAAAAAABEAQREhP/2gAIAQEAAQUCi5s8sKyv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAEEAwAAAAAAAAAAAAAAAAEAAhAxERIi/9oACAEBAAY/AnbDKPDam4//xAAcEAABBAMBAAAAAAAAAAAAAAARAAEQkSExQWH/2gAIAQEAAT8hIBx6guUIZxpei4//2gAMAwEAAgADAAAAEIDv/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EDS//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABsQAQADAAMBAAAAAAAAAAAAAAEAESEQMWFx/9oACAEBAAE/EATTBADW7UGkrI1zI9xFaR8YsUqfXH//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-865fd.jpg 240w,
+/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-d564d.jpg 960w,
+/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-10-18h58m52s197-28fd11220696a205c7f9bc656a7122d9-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This usage of clarity/obscurity, if it can symbolize a birth by the intrusion of light in obscurity, can also at the opposite be a warning of what awaits the characters, their fall into darkness: diving into the terrorism abyss for Tchen, or the immersion into the grim reality of the future for the Major.&lt;/p&gt;
+&lt;p&gt;One should note that GITS ends with an almost monochromatic drawing, just like &lt;em&gt;Man’s Fate&lt;/em&gt; finishes on a dazzling and saturated landscape. Both conclude with a meditative contemplation of a spectacular landscape (strange coincidence, a bay in both cases).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“He looked out upon the magnificent bay, saturated with sunlight.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHLaWm87CoP/8QAGRAAAwADAAAAAAAAAAAAAAAAAAECEBEy/9oACAEBAAEFApo2h2sPln//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAwEBPwFL/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABgQAAMBAQAAAAAAAAAAAAAAAAABMSAh/9oACAEBAAY/AqzpFj//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExIVH/2gAIAQEAAT8hZUkFl1WV6GZw5aemj//aAAwDAQACAAMAAAAQs8//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QTWxf/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EK0Uf//EABwQAAICAgMAAAAAAAAAAAAAAAERACExcUGRwf/aAAgBAQABPxAcwE6lEIXCx1BLVsoj2NRRgqCgMUKY1DLz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-865fd.jpg 240w,
+/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-d40a0.jpg 480w,
+/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-d564d.jpg 960w,
+/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-c67c1.jpg 1440w,
+/static/vlcsnap-2015-01-30-17h19m42s132-1f64dc96f33a104beb3d2d6f545f3a4c-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Political and historical plot&lt;/h2&gt;
+&lt;p&gt;A complex narrative weave was often hold against GITS, with a nonnegligible poltical dimension, but &lt;em&gt;Man’s Fate&lt;/em&gt; is not to be outdone: the novel wants itself to be historical, set at the time of Shanghai massacre in between the two World Wars. The multitude of stakeholders with murky motivations and unstable positions is not obvious to understand for who ignores everything of this event. Similarly it is difficult to grasp the complex political game that unrolls in GITS, whether it is the Republic of Gavel or the war between Section 9 and Section 6. In both cases, this background is like a weak reflection of the complexity of the interrogations of characters in the foreground.&lt;/p&gt;
+&lt;h2&gt;The Reflection figure&lt;/h2&gt;
+&lt;p&gt;In both works we find a masterful figure which spans across the whole narrative, with an overhang point of view on the flow of events, and a role of spokesperson for some reflections (from the author?).&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Man’s Fate&lt;/em&gt;, it is Kyo’s father, Gisors, who shoulders this role. Without taking an active part in the action, he is a father figure for many characters. He witnessed the premices as well as the end of this revolution. He also shares regularly his own melancholic reflections through extended tirades. Almost only survivor (with May, whom we will discuss later) he will have witnessed the birth and conclusion of this human tragedy, and will be alone to draw its conclusions (if there are any).&lt;/p&gt;
+&lt;p&gt;In GITS, one could suggest that it is the famous “Puppet Master” which plays this role: throughout the film, thanks to its elusive and intangible position in the network, he is a background figure which pulls strings and knows everything on everything. During the memorable passage in the abandoned museum, he discloses himself at last and delivers the reflections that are haunting him.&lt;/p&gt;
+&lt;h2&gt;The Companion figure&lt;/h2&gt;
+&lt;p&gt;This figure is differently important: it acts as a counterweight to the Reflection figure and sometimes feeds its reflection. In &lt;em&gt;Man’s Fate&lt;/em&gt;, one can think of May, precious support of Kyo, only survivor with Gisors to the disaster. In GITS it is Batō who shoulders this responsibility, as witnessed by the dialogs in the elevator or on the boat during which the major confides in him her anguishes. It is also him who will help her through the last ordeal and who will accompany her to the end.&lt;/p&gt;
+&lt;p&gt;A last word on the epilogs: both produce the friendly separation of these two figures, May and Gisors in the novel, Batō and Kusanagi/Puppet Master in the film. Both sole survivors of very different but human catastrophes.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-667be.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAHmX5G5RAb/xAAaEAACAgMAAAAAAAAAAAAAAAABEAACERMh/9oACAEBAAEFAqHE2cQX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGhABAQACAwAAAAAAAAAAAAAAAQARMSFBUf/aAAgBAQABPyHqFgs5V9nOY0Wk7v/aAAwDAQACAAMAAAAQvM//xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQMBAT8QMIv/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Quq//xAAcEAEAAgIDAQAAAAAAAAAAAAABACERMUFhodH/2gAIAQEAAT8QfNAXSygAEtqNfE8jFftjc75n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Shot of GITS&quot;
+        title=&quot;&quot;
+        src=&quot;/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-d564d.jpg&quot;
+        srcset=&quot;/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-865fd.jpg 240w,
+/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-d40a0.jpg 480w,
+/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-d564d.jpg 960w,
+/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-c67c1.jpg 1440w,
+/static/vlcsnap-2015-04-10-19h19m09s127-1b5ad0d512ff3479115bde6d7de68b00-667be.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;After digging into both works to make these parallels emerge, one can question the existence of major differences between them. Should we conclude that the filmmaker of GITS was highly inspired by &lt;em&gt;Man’s Fate&lt;/em&gt;? I did not find any tangible, material clue of such a convergence, nonetheless one cannot exclude the possibility of an unconscious influence, the film being largely posterior to the novel. The reader will stay the only judge…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Aymara]]></title><description><![CDATA[The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.]]></description><link>https://temigo.github.io/posts/aymara/</link><guid isPermaLink="false">https://temigo.github.io/posts/aymara/</guid><pubDate>Sat, 03 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The Altiplano is a fascinating place at the heart of  the Andes, the most extensive area of high plateau after Tibet. It was the birthplace of several major civilizations such as Tiwanaku and the Inca Empire. In this landscape made of snow-covered peaks, lakes, deserts, salt flats, and high plains, the Aymara people speak a fascinating language full of surprises.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;

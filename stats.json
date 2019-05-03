@@ -4,6 +4,10 @@
       "component---src-templates-tag-template-jsx-ed5d90d698ceea63ea43.js",
       "component---src-templates-tag-template-jsx-ed5d90d698ceea63ea43.js.map"
     ],
+    "path---posts-gits": [
+      "path---posts-gits-805b72e18c1e78b4b2b0.js",
+      "path---posts-gits-805b72e18c1e78b4b2b0.js.map"
+    ],
     "component---src-templates-page-template-jsx": [
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js",
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js.map"
@@ -17,8 +21,8 @@
       "path---projects-whisper-app-9888d43dcdae5a095959.js.map"
     ],
     "path---categories": [
-      "path---categories-e085835c6156653924e7.js",
-      "path---categories-e085835c6156653924e7.js.map"
+      "path---categories-c558db4d9448f0f341f6.js",
+      "path---categories-c558db4d9448f0f341f6.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-e1306667a369780294ff.js",
@@ -29,8 +33,8 @@
       "path---projects-yupik-baeb647e3baacf375a95.js.map"
     ],
     "path---tags": [
-      "path---tags-90995dd74d04f3ec3f72.js",
-      "path---tags-90995dd74d04f3ec3f72.js.map"
+      "path---tags-805b9dc06df6dda8b9c0.js",
+      "path---tags-805b9dc06df6dda8b9c0.js.map"
     ],
     "path---tags-languages": [
       "path---tags-languages-d36f6087ddb5451bcf4f.js",
@@ -65,8 +69,8 @@
       "path---research-a1393c04fa39f29f5c98.js.map"
     ],
     "path---categories-sf": [
-      "path---categories-sf-faaa76be220ce76924fe.js",
-      "path---categories-sf-faaa76be220ce76924fe.js.map"
+      "path---categories-sf-4ad5ec7e841b6ffcd6c1.js",
+      "path---categories-sf-4ad5ec7e841b6ffcd6c1.js.map"
     ],
     "component---src-templates-post-template-jsx": [
       "component---src-templates-post-template-jsx-425b0ff2cc41e8a4c2c2.js",
@@ -77,8 +81,8 @@
       "component---src-pages-categories-jsx-dc892dc56898ecd4183e.js.map"
     ],
     "path---index": [
-      "path---index-cfdfe1d0af30e3f12a0c.js",
-      "path---index-cfdfe1d0af30e3f12a0c.js.map"
+      "path---index-5289886fd81d613fc78a.js",
+      "path---index-5289886fd81d613fc78a.js.map"
     ],
     "component---src-templates-project-template-jsx": [
       "component---src-templates-project-template-jsx-023549b3cda0899da4f7.js",
@@ -107,8 +111,8 @@
       "path---posts-piraha-f8f10093a3393c325a2c.js.map"
     ],
     "path---tags-books": [
-      "path---tags-books-5a94fb6acace09d0ecfd.js",
-      "path---tags-books-5a94fb6acace09d0ecfd.js.map"
+      "path---tags-books-804bb495982839f57600.js",
+      "path---tags-books-804bb495982839f57600.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -119,12 +123,12 @@
       "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js.map"
     ],
     "path---tags-sf": [
-      "path---tags-sf-e08f73c4b2bd93e38f8b.js",
-      "path---tags-sf-e08f73c4b2bd93e38f8b.js.map"
+      "path---tags-sf-16c769661a46a747eeef.js",
+      "path---tags-sf-16c769661a46a747eeef.js.map"
     ],
     "app": [
-      "app-19f644819dd5b8838523.js",
-      "app-19f644819dd5b8838523.js.map"
+      "app-d7da6a63a9ef5d24412a.js",
+      "app-d7da6a63a9ef5d24412a.js.map"
     ],
     "path---categories-languages": [
       "path---categories-languages-3e24282c80d5fb04069f.js",
