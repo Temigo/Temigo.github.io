@@ -5,6 +5,7 @@ layout: project
 path: "/projects/whisper-app"
 draft: false
 frontImage: "./graph1.png"
+description: "Finding the source of an epidemics can be crucial. I led a team of 6 students at Ecole polytechnique to investigate rumour source detection algorithms."
 ---
 ## Whisper App: Rumour source detection
 *Sep. 2015 - June 2016. Under the supervision of [Laurent Massoulié](http://pages.saclay.inria.fr/laurent.massoulie/index.htm). With Mickaël Latocca, Rémi Said, Louis Lallemand, Quentin Bertrand, Henri Bourdeau, Carolina Garcia.*
@@ -17,7 +18,7 @@ I led a team of 6 students at Ecole polytechnique to investigate these rumour so
 
 
 
-[Try Whisper App online!](http://temigo.pythonanywhere.com/#/) -
-[Back-end code](https://github.com/Temigo/whisper-app) -
-[Front-end code](https://github.com/Temigo/whisper-app-client) -
+[Try Whisper App online!](http://temigo.pythonanywhere.com/#/) /
+[Back-end code](https://github.com/Temigo/whisper-app) /
+[Front-end code](https://github.com/Temigo/whisper-app-client) /
 [Algorithms implementations](https://github.com/Temigo/whisper)

@@ -7,8 +7,12 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Blog',
         path: '/'
+      },
+      {
+        label: 'Research',
+        path: '/research'
       },
       {
         label: 'Projects',
@@ -122,7 +126,8 @@ module.exports = {
           },
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
-          'gatsby-remark-smartypants'
+          'gatsby-remark-smartypants',
+          'gatsby-remark-emoji'
         ]
       }
     },

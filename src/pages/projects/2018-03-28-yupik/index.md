@@ -5,9 +5,10 @@ layout: project
 path: "/projects/yupik"
 draft: false
 frontImage: "./yupik.jpg"
+description: "Won 1st prize (based on the reports) for the final project of CS224n - Natural Language Processing with Deep Learning. Machine translation tools do not yet exist for the Yup'ik Eskimo language which is an endangered language spoken by around 8,000 people in Southwest Alaska."
 ---
 
-*Jan. 2018 - ongoing, with Christopher W. Liu*
+*Jan. 2018 - Jan. 2019, with Christopher W. Liu*
 
 Won 1st prize (based on the reports) for the course project of [CS224n - Natural Language Processing with Deep Learning](http://cs224n.stanford.edu).
 
@@ -18,13 +19,13 @@ We wrote a morphological rule-based parser for the Yup'ik Eskimo language and co
 ![Students](./yupik.jpg)
 *Yup'ik names of children  (Marc Lester / ADN)*
 
-We are now working on the development of **Yuarcuun**, a translation and dictionary tool for Yup'ik Eskimo which will be available online to help revitalize the language.
+We developed and launched in October 2018 __[Yugtun](http://www.yugtun.com)__, a language and dictionary tool for Yup'ik Eskimo which is available online to help revitalize the language.
 
 
 
-[Final Report](http://web.stanford.edu/class/cs224n/reports/6907893.pdf) -
-[Machine Translation Code](https://github.com/cwtliu/yupik-mt) -
-[Yuarcuun API Code](https://github.com/Temigo/yuarcuun-api) -
+[Final Report](http://web.stanford.edu/class/cs224n/reports/6907893.pdf) /
+[Machine Translation Code](https://github.com/cwtliu/yupik-mt) /
+[Yuarcuun API Code](https://github.com/Temigo/yuarcuun-api) /
 [Yuarcuun Web interface](https://github.com/Temigo/yuarcuun-web)
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Byte pair encodings as good as morphological analysis based on Morfessor for low resource machine translation on Yup&#39;ik Eskimo to English. <a href="https://t.co/hdauwgEQUG">pic.twitter.com/hdauwgEQUG</a></p>&mdash; Richard (@RichardSocher) <a href="https://twitter.com/RichardSocher/status/976647886099263488?ref_src=twsrc%5Etfw">22 March 2018</a></blockquote>

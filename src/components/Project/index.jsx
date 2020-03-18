@@ -25,7 +25,7 @@ class Post extends React.Component {
         <h4 className="post__title">
           <Link className="post__title-link" to={slug}>{title}</Link>
         </h4>
-        <Img sizes={frontImage.childImageSharp.sizes} />
+        <Link to={slug}><Img sizes={frontImage.childImageSharp.sizes} /></Link>
         <p className="post__description">{description}</p>
         <Link className="post__readmore" to={slug}>Read more</Link>
       </div>

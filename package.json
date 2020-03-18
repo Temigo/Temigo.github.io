@@ -38,6 +38,7 @@
     "gatsby-plugin-sitemap": "^1.2.10",
     "gatsby-plugin-twitter": "^1.0.20",
     "gatsby-remark-copy-linked-files": "^1.5.25",
+    "gatsby-remark-emoji": "0.0.3",
     "gatsby-remark-images": "^1.5.37",
     "gatsby-remark-prismjs": "^1.2.12",
     "gatsby-remark-responsive-iframe": "^1.4.16",
