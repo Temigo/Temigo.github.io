@@ -21,20 +21,24 @@
       "path---projects-whisper-app-9888d43dcdae5a095959.js.map"
     ],
     "path---categories": [
-      "path---categories-c558db4d9448f0f341f6.js",
-      "path---categories-c558db4d9448f0f341f6.js.map"
+      "path---categories-40086b5a7177212f0790.js",
+      "path---categories-40086b5a7177212f0790.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0f32f31ba245f3498615.js",
       "component---src-pages-tags-jsx-0f32f31ba245f3498615.js.map"
     ],
     "path---projects-yupik": [
-      "path---projects-yupik-6e2701483d1a795a0175.js",
-      "path---projects-yupik-6e2701483d1a795a0175.js.map"
+      "path---projects-yupik-6c1a1cf69e1ab1c8c5e7.js",
+      "path---projects-yupik-6c1a1cf69e1ab1c8c5e7.js.map"
+    ],
+    "path---posts-workbench": [
+      "path---posts-workbench-4f9e26898dca3dd000c8.js",
+      "path---posts-workbench-4f9e26898dca3dd000c8.js.map"
     ],
     "path---tags": [
-      "path---tags-805b9dc06df6dda8b9c0.js",
-      "path---tags-805b9dc06df6dda8b9c0.js.map"
+      "path---tags-ee746d200ed8567afaad.js",
+      "path---tags-ee746d200ed8567afaad.js.map"
     ],
     "path---tags-languages": [
       "path---tags-languages-d36f6087ddb5451bcf4f.js",
@@ -81,17 +85,21 @@
       "component---src-pages-categories-jsx-1ff84966f84b04ce4b5d.js.map"
     ],
     "path---index": [
-      "path---index-5289886fd81d613fc78a.js",
-      "path---index-5289886fd81d613fc78a.js.map"
+      "path---index-99bc4d0c244fe0b63f46.js",
+      "path---index-99bc4d0c244fe0b63f46.js.map"
     ],
     "component---src-templates-project-template-jsx": [
       "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js",
       "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js.map"
     ],
+    "path---categories-woodworking": [
+      "path---categories-woodworking-644bcad090ad727d836d.js",
+      "path---categories-woodworking-644bcad090ad727d836d.js.map"
+    ],
     "commons": [
-      "commons-a59fc6e3a1c16b0ef500.js",
+      "commons-45b2c422045226750a6e.js",
       "build-js-styles.css",
-      "commons-a59fc6e3a1c16b0ef500.js.map",
+      "commons-45b2c422045226750a6e.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -115,12 +123,16 @@
       "path---tags-books-804bb495982839f57600.js.map"
     ],
     "path---projects-languages": [
-      "path---projects-languages-f79fb42f3e2e2f366cab.js",
-      "path---projects-languages-f79fb42f3e2e2f366cab.js.map"
+      "path---projects-languages-6116826976293093e8b3.js",
+      "path---projects-languages-6116826976293093e8b3.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tags-woodworking": [
+      "path---tags-woodworking-55d5ddd11689ad4b918b.js",
+      "path---tags-woodworking-55d5ddd11689ad4b918b.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js",
@@ -131,8 +143,8 @@
       "path---tags-sf-16c769661a46a747eeef.js.map"
     ],
     "app": [
-      "app-49c679879d196a920c4a.js",
-      "app-49c679879d196a920c4a.js.map"
+      "app-d367d2a21101317e0d2c.js",
+      "app-d367d2a21101317e0d2c.js.map"
     ],
     "path---categories-languages": [
       "path---categories-languages-3e24282c80d5fb04069f.js",
@@ -147,8 +159,8 @@
       "path---404-65b659864a55a7c98494.js.map"
     ],
     "path---about": [
-      "path---about-bcef3093fe0e89e2e3d3.js",
-      "path---about-bcef3093fe0e89e2e3d3.js.map"
+      "path---about-79be0d15fa63fa562f58.js",
+      "path---about-79be0d15fa63fa562f58.js.map"
     ],
     "path---posts-luminous": [
       "path---posts-luminous-c80a011c82908ae31af7.js",
