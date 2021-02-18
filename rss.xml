@@ -1,4 +1,635 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 26 Nov 2020 03:39:53 GMT</lastBuildDate><item><title><![CDATA[A Roubo Workbench Chronicle]]></title><description><![CDATA[If you look backwards and try to understand how you landed where you are, there isn't always a clear-cut path in the jungle of the past. One fine summer day, I reached one of these turning points that seemingly come out of nowhere when I decided to make a guitar.]]></description><link>https://temigo.github.io/posts/workbench/</link><guid isPermaLink="false">https://temigo.github.io/posts/workbench/</guid><pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;If you look backwards and try to understand how you landed where you are, there isn’t always a clear-cut path in the jungle of the past.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Feb 2021 20:38:04 GMT</lastBuildDate><item><title><![CDATA[Journal: First Guitar Build]]></title><description><![CDATA[As I often do, I *may* have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm (...)]]></description><link>https://temigo.github.io/posts/guitar_build/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_build/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is being updated over time as the build progresses. Stay tuned!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As I often do, I &lt;em&gt;may&lt;/em&gt; have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm, inspired by the Cordoba Dolce 7/8 whose size I really liked when I had a chance to try it out in person some time ago. Since it is my first build, the wood choices are conservative: the top is cedar and back/sides are maple.&lt;/p&gt;
+&lt;h3&gt;Headstock&lt;/h3&gt;
+&lt;p&gt;Started with making the neck/headstock scarf joint, then gluing the head veneer and shaping the head. I forgot to take pictures before the end of this first step, I think. I borrowed the crest shape from Robert Bouchet, I liked its simplicity.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-66016.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.30324909747293%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAUmlw10dYxqfY5mkOhJ0l//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAgMRBCEQEjH/2gAIAQEAAQUCbIUJ7TnNJJpkftqQ6xl24vVlf//EABkRAAEFAAAAAAAAAAAAAAAAAAAQERIxQf/aAAgBAwEBPwGkfSZ//8QAFxEBAQEBAAAAAAAAAAAAAAAAABESQf/aAAgBAgEBPwFU4w//xAAdEAACAgEFAAAAAAAAAAAAAAAAAQIgAxIhIjEz/9oACAEBAAY/AuWLUbRPOdEN07Z//8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITFxEEFh8f/aAAgBAQABPyG6N84U2VKXq7ZZkH4TiXXJVJmvtqdpmEfJ4CrrFApSfuT/2gAMAwEAAgADAAAAEKAlwf/EABkRAAMAAwAAAAAAAAAAAAAAAAABESExUf/aAAgBAwEBPxCJsENxHD//xAAYEQADAQEAAAAAAAAAAAAAAAAAASERcf/aAAgBAgEBPxDdVJHI6P/EAB4QAQACAgMAAwAAAAAAAAAAAAEAESExQVFhcYHx/9oACAEBAAE/ELXD1hB9EZybFCKOvZhHlOGOwwgK9jB0soyMhh7xHPWM3W7hAMWwL4rmX5z7cAWPyzd+Omup+0n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Headstock&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-d564d.jpg&quot;
+        srcset=&quot;/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-865fd.jpg 240w,
+/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-d40a0.jpg 480w,
+/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-d564d.jpg 960w,
+/static/1613459810915-845b50fbe85aacccb3d3cbbf3c17cbe9-66016.jpg 1108w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;This is the first time that I thought “maybe this is going to turn out to be a guitar, after all” !&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Carving the heel&lt;/h3&gt;
+&lt;p&gt;One luthier whom I was watching on Youtube commented that when he was just starting, carving the heel used to take him days on end, but that he now has gotten down to an hour of work for this step. Well, I am still at the other end of the spectrum and maybe even beyond that…&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABxO2iNJomU//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBH/2gAIAQEAAQUCuPkNIthypKaQ8yqs/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Biv/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPwG4j//EAB4QAAEEAQUAAAAAAAAAAAAAAAEAAhEhEBIxQVFx/9oACAEBAAY/AuR3WyDmP9lRK0uNJwk3j//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQWHh/9oACAEBAAE/IQDr80asTueZxWwTeeaCAFOnkSlHSf/aAAwDAQACAAMAAAAQc/8A/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxCm9LP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EILCD//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQWFx/9oACAEBAAE/EHCyBwahw4F9FzhwlUATw89l3gAgRCtAPcGWttxOKUTxfrNjbkR+z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Carving the heel&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-d564d.jpg&quot;
+        srcset=&quot;/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-865fd.jpg 240w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-d40a0.jpg 480w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-d564d.jpg 960w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-c67c1.jpg 1440w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-667be.jpg 1920w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-85f07.jpg 2880w,
+/static/20210124_114200-287cd47195807b4454bc60c2cbeab5de-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Joining the soundboard&lt;/h3&gt;
+&lt;p&gt;Tonewood usually comes in two bookmatched halves. The first step is to joint (= make sure the edge is straight) and join them (= glue them together along the edge).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/aAAwDAQACEAMQAAABm748JIOGn//EABkQAAMBAQEAAAAAAAAAAAAAAAECESEAMf/aAAgBAQABBQJPWXZwxTIRD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AWf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEREDFR/9oACAEBAAY/Al0W8IsHD//EABoQAQEBAAMBAAAAAAAAAAAAAAERACFRYTH/2gAIAQEAAT8hBGPJ+YpJc79zKgaWeutTpecQuBd//9oADAMBAAIAAwAAABDHz//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxC6xH//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QzgTf/8QAGhABAQADAQEAAAAAAAAAAAAAAREAITFBgf/aAAgBAQABPxCJKkGbIXuPamFXk8fXLYALpbhYCuqM8MJrJsUsvMHjYgZ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Joining&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-d564d.jpg&quot;
+        srcset=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-865fd.jpg 240w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-d40a0.jpg 480w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-d564d.jpg 960w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-c67c1.jpg 1440w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-667be.jpg 1920w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-85f07.jpg 2880w,
+/static/20210129_212557-e6200886596ad4088761fceca9013924-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Joining the soundboard, using the advice of Pablo Requeña: instead of building a contraption with wedges, the wood is light enough that solid tape can keep the central joint that is being glued under sufficient pressure.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwH/2gAMAwEAAhADEAAAAZ+mW50lDA1ihD6jZJD/xAAcEAACAwEAAwAAAAAAAAAAAAABAgADESESIjL/2gAIAQEAAQUCA2GuAStdHhx6/an55jOmqZpxj3//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQMBAT8BRM//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BK//EABYQAQEBAAAAAAAAAAAAAAAAACAxAP/aAAgBAQAGPwLR0f/EABoQAAMBAQEBAAAAAAAAAAAAAAABESFBEDH/2gAIAQEAAT8hYLBcj4SR5HAiYM7a8U5LGN30MH//2gAMAwEAAgADAAAAENzEjP/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEDAQE/EIsdER//xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBhJ//EABwQAQADAAIDAAAAAAAAAAAAAAEAESFBYXGR8P/aAAgBAQABPxAgUx4qFpHqLyiq2AioTlHtYiR11+uWBAVDIo+JREDqMBbkudn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Flattening&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-d564d.jpg&quot;
+        srcset=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-865fd.jpg 240w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-d40a0.jpg 480w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-d564d.jpg 960w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-c67c1.jpg 1440w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-667be.jpg 1920w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-85f07.jpg 2880w,
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg 3456w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;After flattening and cleaning the external side of the soundboard, the outline is drawn using a template and it is time to inlay a rosette.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Rosette cutter&lt;/h3&gt;
+&lt;p&gt;One of the tools needed to inlay a rosette and cut the soundhole is a circle cutter. The idea is very simple: a pin slips into a hole at the center of the circle, a blade is at the other end of the tool and it scribes a thin circular cut as the tool rotates around the pin. Commercially available rosette cutters being out of budget, I took the time to build my own out of some mahogany wood that I had lying around. The design is inspired by the circle cutter of Joe Ulman pictured in the February 2012 Hock tools newsletter. The central pin is just a brass door hinge pin and the blade comes from LMI.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAeTo1prMKWf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDBBET/9oACAEBAAEFAlJMnkxcG5xS9um//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFlf//EABwQAAIABwAAAAAAAAAAAAAAAAABAhASITEyYf/aAAgBAQAGPwI4YlVFdmqP/8QAGRABAQEBAQEAAAAAAAAAAAAAAQARQWEh/9oACAEBAAE/ITZHXPFt3IZ8sMvItoCe3//aAAwDAQACAAMAAAAQx/8A/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMVH/2gAIAQMBAT8QiWkcP//EABcRAAMBAAAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8QrZof/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFRQYGR/9oACAEBAAE/EKi6+w1mWOVQIO3qOqg5nc61A4MUeHAKz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Rosette cutter 1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d564d.jpg&quot;
+        srcset=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-865fd.jpg 240w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d40a0.jpg 480w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d564d.jpg 960w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-c67c1.jpg 1440w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-667be.jpg 1920w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-85f07.jpg 2880w,
+/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAHmqG6dcJ0P/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEQMSE//aAAgBAQABBQKqNcZzWRUERIKg/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAZEAACAwEAAAAAAAAAAAAAAAAAAhAhMWH/2gAIAQEABj8C6WUrGmR//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERMVFxIWGx/9oACAEBAAE/IeZJOZUaj9Lji0PpxXRnLyyCkf/aAAwDAQACAAMAAAAQEA//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/EIwo/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxBvSj//xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMWFxgaH/2gAIAQEAAT8QYEQCC6e8xgieAO30BuXtGlB37ne2bNlwLXkCuFgJ+5//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Rosette cutter 2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d564d.jpg&quot;
+        srcset=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-865fd.jpg 240w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d40a0.jpg 480w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d564d.jpg 960w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-c67c1.jpg 1440w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-667be.jpg 1920w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-85f07.jpg 2880w,
+/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//aAAwDAQACEAMQAAABzbK2Ru0kP//EABoQAQADAAMAAAAAAAAAAAAAAAECAxIAESH/2gAIAQEAAQUChHplRtK0NYV1yM/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AYmP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Aauv/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQESJRcf/aAAgBAQAGPwJdG9xTLtmTP//EABsQAQEBAAIDAAAAAAAAAAAAAAERACFhMUFR/9oACAEBAAE/IbVo+k01U8sEPmqJTCgh3pclejf/2gAMAwEAAgADAAAAEHjP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARYf/aAAgBAwEBPxAAZcL/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QVbh//8QAHhABAAIBBAMAAAAAAAAAAAAAAQARMSFBUWFxkdH/2gAIAQEAAT8Q0HAWu0K004c9MNI0KgqYtTxyfIuMMBRriBSNc7Puf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Rosette cutter 3&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-d564d.jpg&quot;
+        srcset=&quot;/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-865fd.jpg 240w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-d40a0.jpg 480w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-d564d.jpg 960w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-c67c1.jpg 1440w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-667be.jpg 1920w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-85f07.jpg 2880w,
+/static/20210217_183409-dc41f629375b9843318d31dc7e5fdad6-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Making my own rosette or circle cutter. The blade is a bit short, but will do for now.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Making the rosette&lt;/h3&gt;
+&lt;p&gt;The plan was to make a simple rosette from a commercial wood veneer. The veneer is laurel burl which is a little bit bumpy out of the box. I used veneer softener to flatten it first.&lt;/p&gt;
+&lt;h3&gt;Thicknessing the soundboard&lt;/h3&gt;
+&lt;p&gt;After inlaying the rosette, the next step is to turn over the soundboard and remove material on the inside to reach a desired thickness.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1608273010797-424343d585f571e76fc5a6b9eac33418-66016.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.30324909747293%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAABqvhYhWBbGXKUvobQM4G//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAxESEzEy/9oACAEBAAEFAl1EwrHjgryqgLNWlbkjZ8ixpX2Pc//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwEjG//EABgRAAIDAAAAAAAAAAAAAAAAAAARAQIQ/9oACAECAQE/AYsPEf/EABwQAAEFAAMAAAAAAAAAAAAAAAABEBEhMQISQf/aAAgBAQAGPwIo0hSpRcPGjthXJlb/xAAdEAADAQACAwEAAAAAAAAAAAABESEAMVEQQYGR/9oACAEBAAE/ISQydcIl9esvb81ArcxrmAzswRDlRTacSEZrE+UafrxRwN//2gAMAwEAAgADAAAAEFjX8//EABcRAQEBAQAAAAAAAAAAAAAAAAEQMUH/2gAIAQMBAT8QS5PCP//EABgRAQADAQAAAAAAAAAAAAAAAAEAEBFx/9oACAECAQE/EMHGqYs7n//EAB8QAQACAgICAwAAAAAAAAAAAAEAESExQXFR0WGRwf/aAAgBAQABPxBEBR2FkyBrKG6VduI3Yp6e4CKoEOk530xJssWX47gaMOmZWXKJz8xE1DA753N7cF019zEDB6RLYzW8E//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Caliper&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1608273010797-424343d585f571e76fc5a6b9eac33418-d564d.jpg&quot;
+        srcset=&quot;/static/1608273010797-424343d585f571e76fc5a6b9eac33418-865fd.jpg 240w,
+/static/1608273010797-424343d585f571e76fc5a6b9eac33418-d40a0.jpg 480w,
+/static/1608273010797-424343d585f571e76fc5a6b9eac33418-d564d.jpg 960w,
+/static/1608273010797-424343d585f571e76fc5a6b9eac33418-66016.jpg 1108w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Thicknessing caliper built in-house. The screw allows me to zero the dial if needed. There is a batten underneath that keeps it snug in the vise.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Strutting the soundboard&lt;/h3&gt;
+&lt;h3&gt;Joining and strutting the back&lt;/h3&gt;
+&lt;h3&gt;Bending the ribs&lt;/h3&gt;
+&lt;h3&gt;Assembly on a solera&lt;/h3&gt;
+&lt;h3&gt;Purfling and binding&lt;/h3&gt;
+&lt;h3&gt;Fingerboard&lt;/h3&gt;
+&lt;h3&gt;Bridge&lt;/h3&gt;
+&lt;h3&gt;Neck&lt;/h3&gt;
+&lt;h3&gt;Varnish and polish&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[A Gentle Introduction to Guitar Design]]></title><description><![CDATA[Before setting out to build a guitar, I attempted to understand how to design one. There isn't a monolithic reference book on guitar design, at least none that I could identify. Instead I gathered tips and insights from a variety of sources. This post is my attempt to summarize what I have read so far. Instrument design is a fascinating topic that sits at the confluence of physics, engineering, art and craftsmanship.]]></description><link>https://temigo.github.io/posts/guitar_design/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_design/</guid><pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Before setting out to build a guitar, I attempted to understand how to design one. There isn’t a monolithic reference book on guitar design, at least none that I could identify. Instead I gathered tips and insights from a variety of sources. This post is my attempt to summarize what I have read so far. Instrument design is a fascinating topic that sits at the confluence of physics, engineering, art and craftsmanship. One can get an intellectual understanding for how the instrument works in theory - in the case of the guitar, the vibrations of the strings produce a sound which is amplified by the guitar body. The string length determines the sound pitch. Engineering comes in to keep the instrument together - make it resonant but keep it from crumbling under the tension of the strings. Art is in the design of pleasant shapes and craftsmanship comes in the joint execution of all these ideas to make an object that will be practical to play, beautiful to look at, resistant to weather changes, durable for centuries and sounding as best as the subjective opinion of the instrument maker.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/Jacob-Dhein-The-Luthier-2013-b737b8817120506cd895fd9ac56ce086-f9823.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 855px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.03508771929825%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABy2KWJpUkT//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhEDEv/aAAgBAQABBQKTGzCL8ldtHZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAEDEB/9oACAEBAAY/AiqExf/EABkQAAMBAQEAAAAAAAAAAAAAAAABESExYf/aAAgBAQABPyHoS1Zb3hYsEMl7Blw//9oADAMBAAIAAwAAABAj/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAQESEx/9oACAEDAQE/EFNH/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8Qbc4Uf//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESFRMXGhscH/2gAIAQEAAT8QKYab6y8oDK9Rq1BVY80fRm3NwIviDYgO1z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Luthier&quot;
+        title=&quot;&quot;
+        src=&quot;/static/Jacob-Dhein-The-Luthier-2013-b737b8817120506cd895fd9ac56ce086-f9823.jpeg&quot;
+        srcset=&quot;/static/Jacob-Dhein-The-Luthier-2013-b737b8817120506cd895fd9ac56ce086-2ab5d.jpeg 240w,
+/static/Jacob-Dhein-The-Luthier-2013-b737b8817120506cd895fd9ac56ce086-b161d.jpeg 480w,
+/static/Jacob-Dhein-The-Luthier-2013-b737b8817120506cd895fd9ac56ce086-f9823.jpeg 855w&quot;
+        sizes=&quot;(max-width: 855px) 100vw, 855px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Painting by Jacob Dhein - The Luthier, 2013.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are a lot of objectives that the instrument maker is trying to optimize for. And none of them can be singled out, optimized independently of the others. One can try to scientifically analyze the sound patterns and come up with sophisticated models, such as the Kasha strutting systems. One can come up with ingenious joints to attach the neck to the body, or the headstock to the neck. One can meditate for hours and days to find harmonious curves for the body shape. One can craft perfect wood joints and wield the chisel like a demi-god. But none of this will, by itself, lead to a good guitar. Only a combination of all these skills can open that door.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/classical-guitar-part-names-93d6155ff94dae54db531704d73b404b-1caba.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB1JO2VDKP/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAxES/9oACAEBAAEFAmtCsti52IVHeZMn/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/Aaf/xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMRH/2gAIAQEABj8CfSmaWrjT/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAITFB/9oACAEBAAE/IRIJPXILEwlgy6ovuCCMm67W/9oADAMBAAIAAwAAABAbz//EABYRAQEBAAAAAAAAAAAAAAAAACEBEP/aAAgBAwEBPxCgz//EABgRAAIDAAAAAAAAAAAAAAAAAAEQESEx/9oACAECAQE/EAJXi//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQWGx0f/aAAgBAQABPxAQMLB1XUtwGxc+TNiDW2PgsC3yGzDiYGDJTsuh1P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Guitar parts&quot;
+        title=&quot;&quot;
+        src=&quot;/static/classical-guitar-part-names-93d6155ff94dae54db531704d73b404b-1caba.jpeg&quot;
+        srcset=&quot;/static/classical-guitar-part-names-93d6155ff94dae54db531704d73b404b-38c71.jpeg 240w,
+/static/classical-guitar-part-names-93d6155ff94dae54db531704d73b404b-1caba.jpeg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Parts of a guitar (image from &lt;a href=&quot;https://sheldonconrich.co.uk/guitar-tips-parts-of-a-guitar/&quot;&gt;Sheldon Conrich&lt;/a&gt;) which I might be referring to in this post.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The overarching design principle of a guitar is to find a compromise between the lightness and flexibility of the soundboard, which allows vibrations to transmit the sound, and the stiffness required to resist the strings tension. Unlike bowed instruments, where the bow is transmitting a lot of energy to the strings (almost as if it was continuously plucking the strings), plucked instruments like the guitar have to make the most out of a small amount of energy imparted to the string by each pluck. Hence, it has to capture the sound and amplify it.&lt;/p&gt;
+&lt;h3&gt;Classical vs acoustic guitar&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-cfd28.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 78.61328125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAFtuXTFOzRT/8QAGxAAAQQDAAAAAAAAAAAAAAAAAgASEyMBAxH/2gAIAQEAAQUCscMvLVkt0gSssX//xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwFz/8QAFxEAAwEAAAAAAAAAAAAAAAAAAgMQEf/aAAgBAgEBPwFY5P/EABsQAAICAwEAAAAAAAAAAAAAAAABERICIUIx/9oACAEBAAY/AnX03U4HVZNimDk//8QAHRAAAwACAgMAAAAAAAAAAAAAAAERQWExUZGhwf/aAAgBAQABPyHugk/oaP2FkZhMFob23Rc6vNn/2gAMAwEAAgADAAAAEDs//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/ENVH/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EKSv/8QAHxAAAgIBBAMAAAAAAAAAAAAAAREAITFBUWGBcZGh/9oACAEBAAE/ECFwHcvLfyGPiVbv3cIfA5EG1EkWateFCM0dqdqhPQulg9T/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Classical vs acoustic guitar&quot;
+        title=&quot;&quot;
+        src=&quot;/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-d564d.jpeg&quot;
+        srcset=&quot;/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-865fd.jpeg 240w,
+/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-d40a0.jpeg 480w,
+/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-d564d.jpeg 960w,
+/static/classical-guitar-vs-acoustic-guitar-14024a54b5f532434d5f293b430f5501-cfd28.jpeg 1024w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Image from &lt;a href=&quot;https://www.dawsons.co.uk/blog/classical-vs-acoustic-guitars-right&quot;&gt;Dawsons Music &amp;#x26; Sound Ltd&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The most striking visual difference between a classical and an acoustic guitar is probably the shape of the headstock and tuning pegs, which harbors slots in the case of the classical guitar. As you might know, a classical guitar uses nylon strings while an acoustic guitar uses steel strings. This means that an acoustic guitar has to withstand a much higher string tension than a classical guitar, which in turn will influence design choices such as the strutting. Putting steel strings on a classical guitar is a no-no - this is a sure way to destroy your classical guitar, which is not built to resist steel strings tension. The neck is also narrower on steel-strings and there is less spacing between the strings themselves. I have read mostly about classical guitars, so I may be missing out on some parameters for acoustic guitar design.&lt;/p&gt;
+&lt;h3&gt;Scale length&lt;/h3&gt;
+&lt;p&gt;An important design choice is the scale length. That will determine a lot of the guitar geometry and the frets position. By definition the scale length is measured from the nut to the bridge, and the 12th fret stands exactly at half of the scale length. The standard scale length nowadays is 650mm, but there are still guitars built with smaller length scales down to 610mm - this usually accompanies a smaller guitar body size, and can suit better smaller hands.&lt;/p&gt;
+&lt;h3&gt;Plantilla and body dimensions&lt;/h3&gt;
+&lt;p&gt;Each maker, it seems, has his own plantilla or body shape with curves that seem pleasing to his eye. Although in theory the body shape might influence the resonance of the guitar, in practice it is not considered to be a major parameter. This is where art can take the lead and dictate the choices. Draw it free-hand or with the help of French curves, or copy an existing plantilla drawing, that part is up to the artist that lives in each luthier.&lt;/p&gt;
+&lt;h3&gt;Flat, domed or arched soundboard&lt;/h3&gt;
+&lt;p&gt;A domed soundboard is curved along one dimension (its width). An arched soundboard is curved in both dimensions. Structurally a domed or arched soundboard is said to be more resistant to the tension of the strings. It can also contribute to getting the action right.&lt;/p&gt;
+&lt;h3&gt;Getting the action right&lt;/h3&gt;
+&lt;p&gt;The action is the height of the strings above the fretboard or fingerboard. A lower action means it is easier to play single notes, but harder to strum chords without buzzing. Although it can be slightly modified afterwards by filing the saddle, for example, it should not be neglected in the design phase. The designer should aim for an action above the 12th fret of about 3-4 mm for a classical guitar. How to achieve it will be a combination of several design choices. The bridge height above the soundboard, of course, will matter. As a result, the dome or arch of the soundboard must also be correctly estimated. But the fingerboard could be tapered from the nut down to the rosette, too, to accommodate the target action.&lt;/p&gt;
+&lt;h3&gt;Strutting the soundboard&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-bc39e.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.908383751080386%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdulQhh//8QAFxABAAMAAAAAAAAAAAAAAAAAAQAgQf/aAAgBAQABBQLWFP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAQEAAwEAAAAAAAAAAAAAAAEAEBEhMf/aAAgBAQABPyFcCAn2eEGy/9oADAMBAAIAAwAAABCgD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQZH/2gAIAQEAAT8Q3Ze9uITvspC/IDxDoQAUtn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Bracing&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-d564d.jpeg&quot;
+        srcset=&quot;/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-865fd.jpeg 240w,
+/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-d40a0.jpeg 480w,
+/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-d564d.jpeg 960w,
+/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-c67c1.jpeg 1440w,
+/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-667be.jpeg 1920w,
+/static/bracing-5e05590ed10fb81f420f30fd9e5eaef6-bc39e.jpeg 2314w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Illustration borrowed from “Classical Guitar Construction”, Irving Sloane, p.16.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Soundboard bracing or strutting refers to the thin wooden braces that are glued on the inside of the soundboard. Some of them have a structural role - for example, reinforcing the bridge area which is sustaining the most tension or enforcing the soundboard arching. The traditional view is that a lot of them serve to “shape” the sound of the guitar: for example, a fan pattern as pictured on the left above is believed to impart more power to either treble or bass depending on how many fans brace each half of the soundboard. For a scientist, the topic of soundboard strutting is quite fascinating. It reminds me of the glorious alchemy era before chemistry came along to explain how different products reacted together. Each luthier has spent years experimenting with different bracing patterns, brace profiles, brace wood and is likely to hold strong opinions about their effect.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Everything in lutherie is intelligent guesses.” - Ervin Somogyi&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Others&lt;/h3&gt;
+&lt;p&gt;The angle between headstock and neck is yet another variable open to the designer. It will mostly influence the tension of the strings when they pass above the neck. Too steep of an angle might put too much pressure on the strings. The rosette size and design is primarily an aesthetic choice, although one might argue that it theoretically plays a role in the acoustic system. Purfling and binding are thin wooden strips glue to the edges of the guitar. Binding (the outermost strips) seal the end grain of the guitar wood. Purfling (the inner strips) are purely decorative, they participate to the general look of the guitar. The joints between the neck and the headstock, or the neck and the body, are usually craftsmanship decisions. For example creating a perfectly shaped 2mm wide slot in the heel to house the ribs (traditional Spanish method) might be more challenging to execute than a wider slot where the ribs can be wedged (the Romanillos approach). The soundboard thickness is also a design choice. Some luthiers keep an even thickness everywhere, others like to make the soundboard thinner towards the edges (where it has less tension to resist).&lt;/p&gt;
+&lt;p&gt;Now, have we covered the main parameters of guitar design? Of course not, we are missing one of the most important - wood. There are woods that have been used traditionally - a combination of practicality due to the local availability of some woods, and their suitability to make instruments. Many luthiers now experiment outside of this traditional pool of woods to try making instruments with local or native woods. Beyond the wood choice, each piece of wood is unique and may resonate in its own way. That is perhaps the most challenging part for someone who wants to conceptualize an mechanical acoustic model of the guitar - even assuming perfect execution everywhere else and a fixed geometry, the wood peculiarities might change throw it off. Are there wood qualities that are measurable and matter more? Density, stiffness, there are definitely a few mechanical qualities to wood that one can measure and try to control. But there is no agreement that this would be sufficient to constrain the wood choice. There is a good reason, I suppose, as to why after all these centuries luthiers still tap the tonewood with their knuckle to hear its qualities.&lt;/p&gt;
+&lt;p&gt;Does that seem a little bit overwhelming? Too many open parameters? Wait, that is not all there is to lutherie! What about seemingly small details… like the shape of the saddle? The saddle is that small white strip (usually of bone) sitting in between the bridge and the strings.  I certainly didn’t even envision having to think this detail through until I read about it from &lt;a href=&quot;https://esomogyi.com/articles/principles-of-guitar-dynamics-and-design/&quot;&gt;Ervin Somogyi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/saddle-c3027f39e6322d8a6854cc22f15c1fb5.gif&quot; alt=&quot;Saddle&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Lutherie, guitar design - and instrument design in general - is a wonderful bag filled with these little details that you learn along the way, reading from masters and amateurs alike. I barely scratched the surface of the iceberg, but hopefully that is enough to give you some idea of what is involved (and prompt you to learn more about it!). I could not finish this post without giving you a flavor of some of the wildest guitar designs that I have seen so far - and I am sure, there are many more out there waiting to be discovered.&lt;/p&gt;
+&lt;h3&gt;How far can you go ?&lt;/h3&gt;
+&lt;p&gt;Yes, once you understand what you are doing, you can go crazy with instrument design. This is something that I did not appreciate &lt;em&gt;at all&lt;/em&gt; before delving into guitar making. The diversity of guitars that are made even right now, as we are talking, is &lt;em&gt;astonishing&lt;/em&gt;. Some of my favorite examples are the instruments of Fred Carlson in Santa Cruz, which are on the very creative side of the luthier spectrum, as you can tell from the few pictures below. Lisa Manzer also has some beautiful guitars which include watercolors (!) in her design.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/taproot-b800927dabe68979267d223ee8ba003e-c8aa6.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 167.55555555555554%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAiABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAHkWA5VhN06tXHfOXu2L4FaBH//xAAdEAACAwACAwAAAAAAAAAAAAABAgADERASEyEi/9oACAEBAAEFAq07taqjhdxh6lK/ViMZkSzxkOAIwGKq7P/EABYRAQEBAAAAAAAAAAAAAAAAAAEQIP/aAAgBAwEBPwGAJj//xAAXEQEAAwAAAAAAAAAAAAAAAAABAhAg/9oACAECAQE/Aako4//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhAxERIyUZH/2gAIAQEABj8CxXZTdKggJsgkeTkuilxEf//EAB4QAQACAwACAwAAAAAAAAAAAAEAESExQRBRgbHR/9oACAEBAAE/IdoptOEvm47uVLuluYp4P3KirSsHYGCIZ8IJZhmUE9Sr0RWQfifiEo9T/9oADAMBAAIAAwAAABAwy/CD/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAQESBB/9oACAEDAQE/EMChH//EABcRAQADAAAAAAAAAAAAAAAAABEQIEH/2gAIAQIBAT8Q2H5T/8QAHhABAAMAAgMBAQAAAAAAAAAAAQARITFBYXGRUYH/2gAIAQEAAT8Qc6RHgC5YWjXw1TVsdwpoNdNWG19jdoB+omZpG3RbxGhQorI7wgvk9/s2kTElejti0qA7kTf2gzxr4yrAB6n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Taproot&quot;
+        title=&quot;&quot;
+        src=&quot;/static/taproot-b800927dabe68979267d223ee8ba003e-c8aa6.jpeg&quot;
+        srcset=&quot;/static/taproot-b800927dabe68979267d223ee8ba003e-985b0.jpeg 240w,
+/static/taproot-b800927dabe68979267d223ee8ba003e-187b1.jpeg 480w,
+/static/taproot-b800927dabe68979267d223ee8ba003e-c8aa6.jpeg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;&lt;a href=&quot;https://www.fredcarlsoncreativeluthier.com/workszoom/3485470#/&quot;&gt;Taproot&lt;/a&gt; is an 18-string, baritone Harp-Sympitar.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/big_red-bed556d273fde2662b0bf26ca5957742-c8aa6.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB5TlZuKanaBaB/8QAGhAAAwEAAwAAAAAAAAAAAAAAAQIxABESIv/aAAgBAQABBQJR5FNVsOO7UVrv/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8BY//EABYQAQEBAAAAAAAAAAAAAAAAAAEgEf/aAAgBAQAGPwJjGf/EABsQAAIDAAMAAAAAAAAAAAAAAAABESExIEFh/9oACAEBAAE/IUTeEdCWjBLpd1A6As7XA//aAAwDAQACAAMAAAAQDB8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/EEkcf//EABYRAQEBAAAAAAAAAAAAAAAAAAERIP/aAAgBAgEBPxAqmP/EABsQAQADAQEBAQAAAAAAAAAAAAEAESExUcHw/9oACAEBAAE/EEKNpT5pDRSweQQLay4laqOP7yMA3tORBxpbnCfOE//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Big Red&quot;
+        title=&quot;&quot;
+        src=&quot;/static/big_red-bed556d273fde2662b0bf26ca5957742-c8aa6.jpeg&quot;
+        srcset=&quot;/static/big_red-bed556d273fde2662b0bf26ca5957742-985b0.jpeg 240w,
+/static/big_red-bed556d273fde2662b0bf26ca5957742-187b1.jpeg 480w,
+/static/big_red-bed556d273fde2662b0bf26ca5957742-c8aa6.jpeg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;&lt;a href=&quot;https://www.fredcarlsoncreativeluthier.com/workszoom/3488492#/&quot;&gt;Big Red&lt;/a&gt; is a 38-string Harp-Sympitar: 6 classical guitar-type, 5 unfretted harp strings, 12 supertreble harp strings, 12 internal sympathetic strings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/manzer-cc78b191d602649efec821109fa2b2c5-f4e48.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.505050505050505%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGjPojhAwH/xAAbEAACAgMBAAAAAAAAAAAAAAACAwEzAAQSIf/aAAgBAQABBQJrBEmWSHuwMdvsjP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAGRABAQADAQAAAAAAAAAAAAAAAQACEEEh/9oACAEBAAY/AkZu2Xhydf/EABkQAQADAQEAAAAAAAAAAAAAAAEAESFBwf/aAAgBAQABPyG+Syoe9GbEF7jVWb1UyfKInd7P/9oADAMBAAIAAwAAABDoL//EABcRAQEBAQAAAAAAAAAAAAAAABEAAUH/2gAIAQMBAT8Q42LFv//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBJxf/EABsQAQEBAQEAAwAAAAAAAAAAAAERMQAhQWFx/9oACAEBAAE/EHV059vNaP2PIad8UFpZva7gAvJAZiMw6w1BB7nf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Manzer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/manzer-cc78b191d602649efec821109fa2b2c5-d564d.jpeg&quot;
+        srcset=&quot;/static/manzer-cc78b191d602649efec821109fa2b2c5-865fd.jpeg 240w,
+/static/manzer-cc78b191d602649efec821109fa2b2c5-d40a0.jpeg 480w,
+/static/manzer-cc78b191d602649efec821109fa2b2c5-d564d.jpeg 960w,
+/static/manzer-cc78b191d602649efec821109fa2b2c5-c67c1.jpeg 1440w,
+/static/manzer-cc78b191d602649efec821109fa2b2c5-667be.jpeg 1920w,
+/static/manzer-cc78b191d602649efec821109fa2b2c5-f4e48.jpeg 2376w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;A guitar from Lisa Manzer, with vivid watercolors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/somogyi-4a46002658e8e779a3f616ab025e8483-a3f82.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGDDNAWaOCP/8QAGRABAAIDAAAAAAAAAAAAAAAAAgABAxES/9oACAEBAAEFAjRmOgpxShNay9Ak6P8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/ARF//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQIQMf/aAAgBAgEBPwGQuV//xAAbEAABBQEBAAAAAAAAAAAAAAAAAQIRMZEQUf/aAAgBAQAGPwKlwrSeQ11+iJJ//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIVFhMUH/2gAIAQEAAT8hNi2tQq2/sFgbYjxDxDeSSuMDk//aAAwDAQACAAMAAAAQYy//xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQMBAT8QYdm//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EBET/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFRgaH/2gAIAQEAAT8Qu7HraEAwRiuVte/krQ1QPkFg4TyWsokDp7TZEzQyP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Somogyi&quot;
+        title=&quot;&quot;
+        src=&quot;/static/somogyi-4a46002658e8e779a3f616ab025e8483-d564d.jpeg&quot;
+        srcset=&quot;/static/somogyi-4a46002658e8e779a3f616ab025e8483-865fd.jpeg 240w,
+/static/somogyi-4a46002658e8e779a3f616ab025e8483-d40a0.jpeg 480w,
+/static/somogyi-4a46002658e8e779a3f616ab025e8483-d564d.jpeg 960w,
+/static/somogyi-4a46002658e8e779a3f616ab025e8483-a3f82.jpeg 1200w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;&lt;a href=&quot;https://esomogyi.com/guitar-469/&quot;&gt;Guitar #469&lt;/a&gt; from Ervin Somogyi, master luthier known for his creative rosettes (among others).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You may have noticed that most often, wildly creative designs are associated with acoustic guitars rather than classical - and Ervin Somogyi has an interesting take on the world of classical guitar that I enjoyed reading.&lt;/p&gt;
+&lt;h3&gt;References&lt;/h3&gt;
+&lt;p&gt;Besides various forums and online resources, there are a few books out there which have interesting information regarding guitar design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Making Master Guitars, Roy Courtnall.&lt;/li&gt;
+&lt;li&gt;Classical Guitar Construction, Irving Sloane.&lt;/li&gt;
+&lt;li&gt;Guitarmaking, tradition and technology, William Cumpiano &amp;#x26; Jonathan Natelson.&lt;/li&gt;
+&lt;li&gt;The website of Ervin Somogyi is filled with fascinating insights.
+&lt;a href=&quot;https://esomogyi.com/articles/principles-of-guitar-dynamics-and-design/&quot;&gt;https://esomogyi.com/articles/principles-of-guitar-dynamics-and-design/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[A Roubo Workbench Chronicle]]></title><description><![CDATA[If you look backwards and try to understand how you landed where you are, there isn't always a clear-cut path in the jungle of the past. One fine summer day, I reached one of these turning points that seemingly come out of nowhere when I decided to make a guitar.]]></description><link>https://temigo.github.io/posts/workbench/</link><guid isPermaLink="false">https://temigo.github.io/posts/workbench/</guid><pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;If you look backwards and try to understand how you landed where you are, there isn’t always a clear-cut path in the jungle of the past.
 One fine summer day, I reached one of these turning points that seemingly come out of nowhere when I decided to make a guitar.
 Mind you, I do not have any woodworking or instrument building experience. I started reading everything I could find about lutherie and the magic of guitar making. Pretty soon it dawned on me that I would have to pick up some basic woodworking skills. It also became clear that there was no good, solid work table in the apartment that could be monopolized for an indefinite amount of time. I would need a proper workbench. Very logically, this turned into a quest to &lt;em&gt;build a workbench&lt;/em&gt;, before I could start making my own guitar.&lt;/p&gt;
 &lt;p&gt;There exists an impressive amount of literature on woodworking benches and their design. From &lt;em&gt;The Workbench Design Book&lt;/em&gt; (2011) to &lt;em&gt;The Anarchist’s Workbench&lt;/em&gt; (2020), Christopher Schwarz seems to be one of the most prolific contemporary expert on the subject. He will make you see workbenches in a whole new light, within a historical perspective that goes back centuries. After doing my homework, I settled on a popular French design from an 18th century carpenter called André Roubo, which I twisted along the way to adapt to my (modest) needs.&lt;/p&gt;

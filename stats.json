@@ -21,8 +21,8 @@
       "path---projects-whisper-app-9888d43dcdae5a095959.js.map"
     ],
     "path---categories": [
-      "path---categories-40086b5a7177212f0790.js",
-      "path---categories-40086b5a7177212f0790.js.map"
+      "path---categories-61ff33c2f7cc3633bc25.js",
+      "path---categories-61ff33c2f7cc3633bc25.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0f32f31ba245f3498615.js",
@@ -37,8 +37,8 @@
       "path---posts-workbench-4f9e26898dca3dd000c8.js.map"
     ],
     "path---tags": [
-      "path---tags-ee746d200ed8567afaad.js",
-      "path---tags-ee746d200ed8567afaad.js.map"
+      "path---tags-d5c8509eb842a977a9c3.js",
+      "path---tags-d5c8509eb842a977a9c3.js.map"
     ],
     "path---tags-languages": [
       "path---tags-languages-d36f6087ddb5451bcf4f.js",
@@ -85,16 +85,20 @@
       "component---src-pages-categories-jsx-1ff84966f84b04ce4b5d.js.map"
     ],
     "path---index": [
-      "path---index-99bc4d0c244fe0b63f46.js",
-      "path---index-99bc4d0c244fe0b63f46.js.map"
+      "path---index-068e6d57db1af0b696dd.js",
+      "path---index-068e6d57db1af0b696dd.js.map"
     ],
     "component---src-templates-project-template-jsx": [
       "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js",
       "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js.map"
     ],
+    "path---posts-guitar-design": [
+      "path---posts-guitar-design-374b8d00a97ef48497ac.js",
+      "path---posts-guitar-design-374b8d00a97ef48497ac.js.map"
+    ],
     "path---categories-woodworking": [
-      "path---categories-woodworking-644bcad090ad727d836d.js",
-      "path---categories-woodworking-644bcad090ad727d836d.js.map"
+      "path---categories-woodworking-e3da5352a4d92cc01d36.js",
+      "path---categories-woodworking-e3da5352a4d92cc01d36.js.map"
     ],
     "commons": [
       "commons-45b2c422045226750a6e.js",
@@ -131,20 +135,24 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-woodworking": [
-      "path---tags-woodworking-55d5ddd11689ad4b918b.js",
-      "path---tags-woodworking-55d5ddd11689ad4b918b.js.map"
+      "path---tags-woodworking-e2bef3a36f578d2929ac.js",
+      "path---tags-woodworking-e2bef3a36f578d2929ac.js.map"
     ],
     "component---src-pages-index-jsx": [
       "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js",
       "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js.map"
+    ],
+    "path---posts-guitar-build": [
+      "path---posts-guitar-build-cd59eed1cda9ab8db57a.js",
+      "path---posts-guitar-build-cd59eed1cda9ab8db57a.js.map"
     ],
     "path---tags-sf": [
       "path---tags-sf-16c769661a46a747eeef.js",
       "path---tags-sf-16c769661a46a747eeef.js.map"
     ],
     "app": [
-      "app-d367d2a21101317e0d2c.js",
-      "app-d367d2a21101317e0d2c.js.map"
+      "app-1c20e4ce32b6e627b83a.js",
+      "app-1c20e4ce32b6e627b83a.js.map"
     ],
     "path---categories-languages": [
       "path---categories-languages-3e24282c80d5fb04069f.js",
