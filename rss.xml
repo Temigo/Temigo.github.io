@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Feb 2021 21:24:27 GMT</lastBuildDate><item><title><![CDATA[Journal: First Guitar Build]]></title><description><![CDATA[As I often do, I *may* have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm (...)]]></description><link>https://temigo.github.io/posts/guitar_build/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_build/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is being updated over time as the build progresses. Stay tuned!&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Mar 2021 04:57:18 GMT</lastBuildDate><item><title><![CDATA[Journal: First Guitar Build]]></title><description><![CDATA[As I often do, I *may* have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm (...)]]></description><link>https://temigo.github.io/posts/guitar_build/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_build/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is being updated over time as the build progresses. Stay tuned!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As I often do, I &lt;em&gt;may&lt;/em&gt; have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm, inspired by the Cordoba Dolce 7/8 whose size I really liked when I had a chance to try it out in person some time ago. Since it is my first build, the wood choices are conservative: the top is cedar and back/sides are maple.&lt;/p&gt;
 &lt;h3&gt;Headstock&lt;/h3&gt;
 &lt;p&gt;Started with making the neck/headstock scarf joint, then gluing the head veneer and shaping the head. I forgot to take pictures before the end of this first step, I think. I borrowed the crest shape from Robert Bouchet, I liked its simplicity.&lt;/p&gt;
@@ -78,158 +78,49 @@
     &lt;/p&gt;
 &lt;h3&gt;Joining the soundboard&lt;/h3&gt;
 &lt;p&gt;Tonewood usually comes in two bookmatched halves. The first step is to joint (= make sure the edge is straight) and join them (= glue them together along the edge).&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-e6391.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
+&lt;div style=&quot;max-width: 40rem; margin-left: auto; margin-right: auto; display: flex;&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/aAAwDAQACEAMQAAABm748JIOGn//EABkQAAMBAQEAAAAAAAAAAAAAAAECESEAMf/aAAgBAQABBQJPWXZwxTIRD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AWf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEREDFR/9oACAEBAAY/Al0W8IsHD//EABoQAQEBAAMBAAAAAAAAAAAAAAERACFRYTH/2gAIAQEAAT8hBGPJ+YpJc79zKgaWeutTpecQuBd//9oADAMBAAIAAwAAABDHz//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxC6xH//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QzgTf/8QAGhABAQADAQEAAAAAAAAAAAAAAREAITFBgf/aAAgBAQABPxCJKkGbIXuPamFXk8fXLYALpbhYCuqM8MJrJsUsvMHjYgZ//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Joining&quot;
-        title=&quot;&quot;
-        src=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-d564d.jpg&quot;
-        srcset=&quot;/static/20210129_212557-e6200886596ad4088761fceca9013924-865fd.jpg 240w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-d40a0.jpg 480w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-d564d.jpg 960w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-c67c1.jpg 1440w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-667be.jpg 1920w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-85f07.jpg 2880w,
-/static/20210129_212557-e6200886596ad4088761fceca9013924-e6391.jpg 4608w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwAEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/2gAMAwEAAhADEAAAAcCI06Y7uFGTy3RewWb/AP/EABwQAQACAQUAAAAAAAAAAAAAAAEAAhESIjEyQf/aAAgBAQABBQIqRNLKS3Po4M5LdiLtn//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AWM//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQEf/aAAgBAgEBPwELyf/EABsQAAIDAAMAAAAAAAAAAAAAABExAAEQICGR/9oACAEBAAY/AkTKXuUhKQzqPj//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMWFxEEFR/9oACAEBAAE/IWpugAVpGHnqDP2OXqMAvBbRzGlZ9wxsXceamafBKFx3P//aAAwDAQACAAMAAAAQ38SC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAwEBPxBxnAOu/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ENgYaR//xAAfEAEBAAICAQUAAAAAAAAAAAABEQAhMUFRYXGRofH/2gAIAQEAAT8Qc2km4HFtcGhVVRrc6987ierhiQgVhoJpg1gCVrofmWoErqfWCQAmviTFDWEQuluQEctwlwIFLxcbW35z/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210129 212557&quot; title src=&quot;/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-d564d.jpg&quot; srcset=&quot;/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-865fd.jpg 240w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-d40a0.jpg 480w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-d564d.jpg 960w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-c67c1.jpg 1440w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-667be.jpg 1920w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-85f07.jpg 2880w,
+/static/20210129_212557-b2b01a388bd1fdfc4a7d8c5f7e364ebf-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     
-&lt;em&gt;Joining the soundboard, using the advice of Pablo Requeña: instead of building a contraption with wedges, the wood is light enough that solid tape can keep the central joint that is being glued under sufficient pressure.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwH/2gAMAwEAAhADEAAAAZ+mW50lDA1ihD6jZJD/xAAcEAACAwEAAwAAAAAAAAAAAAABAgADESESIjL/2gAIAQEAAQUCA2GuAStdHhx6/an55jOmqZpxj3//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQMBAT8BRM//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BK//EABYQAQEBAAAAAAAAAAAAAAAAACAxAP/aAAgBAQAGPwLR0f/EABoQAAMBAQEBAAAAAAAAAAAAAAABESFBEDH/2gAIAQEAAT8hYLBcj4SR5HAiYM7a8U5LGN30MH//2gAMAwEAAgADAAAAENzEjP/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEDAQE/EIsdER//xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBhJ//EABwQAQADAAIDAAAAAAAAAAAAAAEAESFBYXGR8P/aAAgBAQABPxAgUx4qFpHqLyiq2AioTlHtYiR11+uWBAVDIo+JREDqMBbkudn/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Flattening&quot;
-        title=&quot;&quot;
-        src=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-d564d.jpg&quot;
-        srcset=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-865fd.jpg 240w,
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwH/2gAMAwEAAhADEAAAAZ+mW50lDA1ihD6jZJD/xAAcEAACAwEAAwAAAAAAAAAAAAABAgADESESIjL/2gAIAQEAAQUCA2GuAStdHhx6/an55jOmqZpxj3//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQMBAT8BRM//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BK//EABYQAQEBAAAAAAAAAAAAAAAAACAxAP/aAAgBAQAGPwLR0f/EABoQAAMBAQEBAAAAAAAAAAAAAAABESFBEDH/2gAIAQEAAT8hYLBcj4SR5HAiYM7a8U5LGN30MH//2gAMAwEAAgADAAAAENzEjP/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEDAQE/EIsdER//xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBhJ//EABwQAQADAAIDAAAAAAAAAAAAAAEAESFBYXGR8P/aAAgBAQABPxAgUx4qFpHqLyiq2AioTlHtYiR11+uWBAVDIo+JREDqMBbkudn/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210130 175733&quot; title src=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-d564d.jpg&quot; srcset=&quot;/static/20210130_175733-d9963749641323f7d01c859abdea7e47-865fd.jpg 240w,
 /static/20210130_175733-d9963749641323f7d01c859abdea7e47-d40a0.jpg 480w,
 /static/20210130_175733-d9963749641323f7d01c859abdea7e47-d564d.jpg 960w,
 /static/20210130_175733-d9963749641323f7d01c859abdea7e47-c67c1.jpg 1440w,
 /static/20210130_175733-d9963749641323f7d01c859abdea7e47-667be.jpg 1920w,
 /static/20210130_175733-d9963749641323f7d01c859abdea7e47-85f07.jpg 2880w,
-/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg 3456w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
+/static/20210130_175733-d9963749641323f7d01c859abdea7e47-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
     
-&lt;em&gt;After flattening and cleaning the external side of the soundboard, the outline is drawn using a template and it is time to inlay a rosette.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;(Left) Joining the soundboard, using the advice of Pablo Requeña: instead of building a contraption with wedges, the wood is light enough that solid tape can keep the central joint that is being glued under sufficient pressure. (Right) After flattening and cleaning the external side of the soundboard, the outline is drawn using a template and it is time to inlay a rosette.&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;Rosette cutter&lt;/h3&gt;
 &lt;p&gt;One of the tools needed to inlay a rosette and cut the soundhole is a circle cutter. The idea is very simple: a pin slips into a hole at the center of the circle, a blade is at the other end of the tool and it scribes a thin circular cut as the tool rotates around the pin. Commercially available rosette cutters being out of budget, I took the time to build my own out of some mahogany wood that I had lying around. The design is inspired by the circle cutter of Joe Ulman pictured in the February 2012 Hock tools newsletter. The central pin is just a brass door hinge pin and the blade comes from LMI.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-e6391.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAeTo1prMKWf/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDBBET/9oACAEBAAEFAlJMnkxcG5xS9um//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFlf//EABwQAAIABwAAAAAAAAAAAAAAAAABAhASITEyYf/aAAgBAQAGPwI4YlVFdmqP/8QAGRABAQEBAQEAAAAAAAAAAAAAAQARQWEh/9oACAEBAAE/ITZHXPFt3IZ8sMvItoCe3//aAAwDAQACAAMAAAAQx/8A/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMVH/2gAIAQMBAT8QiWkcP//EABcRAAMBAAAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8QrZof/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFRQYGR/9oACAEBAAE/EKi6+w1mWOVQIO3qOqg5nc61A4MUeHAKz//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Rosette cutter 1&quot;
-        title=&quot;&quot;
-        src=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d564d.jpg&quot;
-        srcset=&quot;/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-865fd.jpg 240w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d40a0.jpg 480w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-d564d.jpg 960w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-c67c1.jpg 1440w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-667be.jpg 1920w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-85f07.jpg 2880w,
-/static/20210217_183319-fc8a587694a477ad0a6ce3148ed77209-e6391.jpg 4608w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-e6391.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAHmqG6dcJ0P/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEQMSE//aAAgBAQABBQKqNcZzWRUERIKg/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAZEAACAwEAAAAAAAAAAAAAAAAAAhAhMWH/2gAIAQEABj8C6WUrGmR//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERMVFxIWGx/9oACAEBAAE/IeZJOZUaj9Lji0PpxXRnLyyCkf/aAAwDAQACAAMAAAAQEA//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/EIwo/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxBvSj//xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMWFxgaH/2gAIAQEAAT8QYEQCC6e8xgieAO30BuXtGlB37ne2bNlwLXkCuFgJ+5//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Rosette cutter 2&quot;
-        title=&quot;&quot;
-        src=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d564d.jpg&quot;
-        srcset=&quot;/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-865fd.jpg 240w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d40a0.jpg 480w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-d564d.jpg 960w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-c67c1.jpg 1440w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-667be.jpg 1920w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-85f07.jpg 2880w,
-/static/20210217_183356-19e20d5606761874ba7b2eae34ed270d-e6391.jpg 4608w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -268,8 +159,266 @@
   &lt;/a&gt;
     
 &lt;em&gt;Making my own rosette or circle cutter. The blade is a bit short, but will do for now.&lt;/em&gt;&lt;/p&gt;
-&lt;h3&gt;Making the rosette&lt;/h3&gt;
-&lt;p&gt;The plan was to make a simple rosette from a commercial wood veneer. The veneer is laurel burl which is a little bit bumpy out of the box. I used veneer softener to flatten it first.&lt;/p&gt;
+&lt;div style=&quot;max-width: 40rem; margin-left: auto; margin-right: auto; display: flex;&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAYdc+NOUWA//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADERP/2gAIAQEAAQUCWEYBuI1FhalZzAn/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAExAhARISIy/9oACAEBAAY/ApHxbzhmnUiT/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERIaExQWFx/9oACAEBAAE/IVbWNi9hPzstk9EB8MItocRsz//aAAwDAQACAAMAAAAQJO//xAAVEQEBAAAAAAAAAAAAAAAAAAABAP/aAAgBAwEBPxAEX//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxCFf//EABwQAQACAgMBAAAAAAAAAAAAAAEAESGRMUFRcf/aAAgBAQABPxDML5Lg02FXpKBMfEzCpOzHZA4Q+XNMtKu+UCf/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210222 211828&quot; title src=&quot;/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-d564d.jpg&quot; srcset=&quot;/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-865fd.jpg 240w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-d40a0.jpg 480w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-d564d.jpg 960w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-c67c1.jpg 1440w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-667be.jpg 1920w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-85f07.jpg 2880w,
+/static/20210222_211828-4a47d765e5c30ff9ac256863f31c540e-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGO4jSi8RwH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABES/9oACAEBAAEFAlGWfrNNQVOm/AbS3//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAwEBPwGMf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAEQAAIRIv/aAAgBAQAGPwJYX1tTP//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQXGB/9oACAEBAAE/IbOwhe17idG/sYLdIApyWs+SGk//2gAMAwEAAgADAAAAELz/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/ECn/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8QrX//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFxUWGB/9oACAEBAAE/EBrf7CeTURFyqCbq07ZB6gIjTBxGX543sHxP/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210312 191436&quot; title src=&quot;/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-d564d.jpg&quot; srcset=&quot;/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-865fd.jpg 240w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-d40a0.jpg 480w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-d564d.jpg 960w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-c67c1.jpg 1440w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-667be.jpg 1920w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-85f07.jpg 2880w,
+/static/20210312_191436-bc4a4c85b23ba83e081a5fa83f3f2e43-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Getting a feel on a piece of scrap first… before the real thing!&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Making and inlaying the rosette&lt;/h3&gt;
+&lt;p&gt;The plan was to make a simple rosette from a commercial wood veneer. The veneer is laurel burl which is a little bit bumpy out of the box. I used veneer softener to first flatten it. Then I followed the wise advice of &lt;a href=&quot;http://www.woodystrings.com/home.html&quot;&gt;Joe Lenzi&lt;/a&gt; to make the rosette from that pretty thin (1/42”, or 0.6mm) veneer: I glued two sheets of veneer together, which yields a 1.2mm thick material ready for the circle cutter.&lt;/p&gt;
+&lt;p&gt;I decided to inlay the veneer and purfling strips all at once, so I would only have to dig one channel. I cut several concentric rings with the circle cutter, targeting a depth of ~1mm. With chisels I removed the material in the rosette channel.&lt;/p&gt;
+&lt;div style=&quot;max-width: 40rem; margin-left: auto; margin-right: auto; display: flex;&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAE2w44ns7//xAAYEAADAQEAAAAAAAAAAAAAAAAAERICEP/aAAgBAQABBQKWSSZ4j//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ASf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFn/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAREFH/2gAIAQEAAT8hAoOWfJQ7x//aAAwDAQACAAMAAAAQ/C//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QzFf/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QOr//xAAYEAADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAQABPxBQzDjDZwQHpMFSP//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210316 110716&quot; title src=&quot;/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-d564d.jpg&quot; srcset=&quot;/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-865fd.jpg 240w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-d40a0.jpg 480w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-d564d.jpg 960w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-c67c1.jpg 1440w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-667be.jpg 1920w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-85f07.jpg 2880w,
+/static/20210316_110716-099696c0e52d8fbc40d3ac02f36b636d-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAABptoGnONv/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAIBAxESEzL/2gAIAQEAAQUCXmSaSMa2GvBkf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAARMQEg/9oACAEBAAY/AotINcf/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFRkf/aAAgBAQABPyEIFwWnkVmn5FOGLbENMx3U/9oADAMBAAIAAwAAABAv3//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPxBYy//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAgEBPxAJ2//EAB0QAAICAQUAAAAAAAAAAAAAAAERACExQVFhcYH/2gAIAQEAAT8QAIyA+kzIHMOhpFgVNIIbGEOR1EMh/E//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210316 110730&quot; title src=&quot;/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-d564d.jpg&quot; srcset=&quot;/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-865fd.jpg 240w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-d40a0.jpg 480w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-d564d.jpg 960w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-c67c1.jpg 1440w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-667be.jpg 1920w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-85f07.jpg 2880w,
+/static/20210316_110730-76d7733c9e3c214d2ba8e07c34703905-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAFFyvGhWmP/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQISBBEh/9oACAEBAAEFAkV5LHs9imXP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAWEAADAAAAAAAAAAAAAAAAAAAQESD/2gAIAQEABj8CDj//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMUFRYf/aAAgBAQABPyHgdyxbcOI18ipTj//aAAwDAQACAAMAAAAQWw//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAj/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QY//EABgQAQADAQAAAAAAAAAAAAAAAAEAESFB/9oACAEBAAE/EBgVaojy41KjHGxdDqsnMHal5//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210316 111526&quot; title src=&quot;/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-d564d.jpg&quot; srcset=&quot;/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-865fd.jpg 240w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-d40a0.jpg 480w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-d564d.jpg 960w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-c67c1.jpg 1440w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-667be.jpg 1920w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-85f07.jpg 2880w,
+/static/20210316_111526-646030725cd089fd8dc56c545d8aeddf-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Cutting the groove for the rosette (left, flattening in progress), cutting the veneer disc by carefully increasing the depth of the cut (middle), and the veneer rosette ready to inlay! (right)&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&quot;max-width: 40rem; margin-left: auto; margin-right: auto; display: flex; flex-direction: row; align-items: stretch&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em;&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/aAAwDAQACEAMQAAABS1KZVvNgk+DqgMQZP//EAB4QAAIBBAMBAAAAAAAAAAAAAAECAAMEERMQEiEi/9oACAEBAAEFAmXXFZmjdc3PlYYMoD4rpsUWrZCgCDj/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BWZP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEQESH/2gAIAQIBAT8BVdOENX//xAAfEAACAQIHAAAAAAAAAAAAAAAAEQIQIQEgMTNRcYH/2gAIAQEABj8CtJl34bkqaI7pwLDJ/8QAHhABAAIBBAMAAAAAAAAAAAAAAQARITFBUXEQYaH/2gAIAQEAAT8hXcjmXwl0GbpPkLfWEvEeoPaAXoRWSmoLOZtiO4bwBg8JrWWz/9oADAMBAAIAAwAAABDo+4H/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxBamGj7RGf/xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAIAQIBAT8QhW5QzKE13//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESFBMWFxUcH/2gAIAQEAAT8QYaHUgB9hwNVKwejE3c9hTqqxDAQMC504YkogZQFy80DBrB+SmpfBse6iDzFK8TaQlgdB8itRRyncz//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210317 221702&quot; title src=&quot;/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-d564d.jpg&quot; srcset=&quot;/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-865fd.jpg 240w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-d40a0.jpg 480w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-d564d.jpg 960w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-c67c1.jpg 1440w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-667be.jpg 1920w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-85f07.jpg 2880w,
+/static/20210317_221702-e3bcac3eab853bd973a50c9118df6451-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAVMezPVEaBqrU+TE87kX/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAIBERIDEyH/2gAIAQEAAQUCqoKMa6OuRY+eWobnJmhRiT//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPwFI/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8BGP/EABoQAAICAwAAAAAAAAAAAAAAAAEhABAgIjH/2gAIAQEABj8CsAzlJGbPH//EABsQAAMBAQADAAAAAAAAAAAAAAABETEhEEFx/9oACAEBAAE/IdjOzOfBicFMEwkiTcKlwNoDLdD0Ix46P//aAAwDAQACAAMAAAAQhAXP/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAECH/2gAIAQMBAT8QQK49LhrHn//EABgRAQEBAQEAAAAAAAAAAAAAAAERABAh/9oACAECAQE/EBKGfGZIU5//xAAhEAEAAwABAgcAAAAAAAAAAAABABEhMVFxQWGBocHR8P/aAAgBAQABPxBA4DhnMDRdnFpFWziJAzfwXl/u03zEDL9PmGSW+dTpSt6/XeFl04LuvYhVRkBINgI//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210318 214120&quot; title src=&quot;/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-d564d.jpg&quot; srcset=&quot;/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-865fd.jpg 240w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-d40a0.jpg 480w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-d564d.jpg 960w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-c67c1.jpg 1440w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-667be.jpg 1920w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-85f07.jpg 2880w,
+/static/20210318_214120-9e93b00b7da1e7dba87f066114db36f2-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;(Left) I broke several purfling strips before deciding to soak them in hot water, bend them around a can of shellac and let them dry overnight. It worked a lot better the next day and I was able to dry-assemble the full rosette against all expectations! (right)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-e6391.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABSo2EubAb/8QAGxAAAgEFAAAAAAAAAAAAAAAAABEBAgMiMUH/2gAIAQEAAQUC7i40i3QxQf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8BcH//xAAZEAADAAMAAAAAAAAAAAAAAAAAEBEBITH/2gAIAQEABj8CMb6qVf/EABwQAAMAAQUAAAAAAAAAAAAAAAABESExQVFxkf/aAAgBAQABPyF86VVLMU8m/SY2rZ3u4paH/9oADAMBAAIAAwAAABDz3//EABkRAQACAwAAAAAAAAAAAAAAAAEAESExcf/aAAgBAwEBPxBKc7ZzP//EABoRAAICAwAAAAAAAAAAAAAAAAERACFRgfD/2gAIAQIBAT8QQsDQiee1P//EABsQAQADAQADAAAAAAAAAAAAAAEAESFBMYHh/9oACAEBAAE/EL4qp5suQGwewkQLziJPg35GYQupZ8kOMPqf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Planing the rosette&quot;
+        title=&quot;&quot;
+        src=&quot;/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-d564d.jpg&quot;
+        srcset=&quot;/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-865fd.jpg 240w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-d40a0.jpg 480w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-d564d.jpg 960w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-c67c1.jpg 1440w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-667be.jpg 1920w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-85f07.jpg 2880w,
+/static/20210319_140118-46ee423ac1acc132ff8024a12c10d9fb-e6391.jpg 4608w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;em&gt;Tiny finger plane came in handy to plane down the purfling strips which were sticking out compared to the veneer disc (preparing for the glue step). You can see that I was struggling to keep the strips from jumping out, hence the tape everywhere…&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&quot;max-width: 40rem; margin-left: auto; margin-right: auto; display: flex; flex-direction: row; align-items: stretch&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em;&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/aAAwDAQACEAMQAAABRZewNU1Ge3NZDqptEEn/AP/EABkQAAMBAQEAAAAAAAAAAAAAAAECEQADEP/aAAgBAQABBQK4N5L0PMAIlUrcoY5Wgy+f/8QAGhEBAQACAwAAAAAAAAAAAAAAAQAREhMhQf/aAAgBAwEBPwHZ8hLjHuxf/8QAHBEAAQQDAQAAAAAAAAAAAAAAAQACESEQEhNB/9oACAECAQE/AdW0D6jIMLo4Vj//xAAZEAACAwEAAAAAAAAAAAAAAAAAEQEQISD/2gAIAQEABj8CtDrDZFHH/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAExESFR/9oACAEBAAE/IcKiG6xLnRYGmnKsMtltDZSXrMWCEUI//9oADAMBAAIAAwAAABAPP/z/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhUf/aAAgBAwEBPxA6uMJAMq1Z8v/EABkRAAMAAwAAAAAAAAAAAAAAAAABESFBUf/aAAgBAgEBPxBoyaLHBLA23s//xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRcZGh/9oACAEBAAE/EEtqj9ZUqPSFob8hs+CVdeNFO49D2SyMGqPMspNDZ8lWMFEGnvczy6ia3P/Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210319 144301&quot; title src=&quot;/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-d564d.jpg&quot; srcset=&quot;/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-865fd.jpg 240w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-d40a0.jpg 480w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-d564d.jpg 960w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-c67c1.jpg 1440w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-667be.jpg 1920w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-85f07.jpg 2880w,
+/static/20210319_144301-f89d49a22cbaa57b63e04c3ff7438170-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;div style=&quot;flex: 30%&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAc71ZYDg9JK6M3lmkK//xAAaEAADAQEBAQAAAAAAAAAAAAAAAQIREyES/9oACAEBAAEFAvW16Yc63ng1gsQ6+hyTKZQz/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQERL/2gAIAQMBAT8BpmZ//8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEBL/2gAIAQIBAT8BcI1f/8QAGxAAAQUBAQAAAAAAAAAAAAAAIQABAhARMVH/2gAIAQEABj8CCNbFa/XooRfPaLX/AP/EABoQAQEBAQEBAQAAAAAAAAAAAAEAETEhYZH/2gAIAQEAAT8h3OeT9HRJgIDDIimGsD7fm5eSrPiKnNgZdX//2gAMAwEAAgADAAAAEDMiwf/EABcRAQEBAQAAAAAAAAAAAAAAABEAARD/2gAIAQMBAT8QxpSbz//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/EGSpqj//xAAcEAACAwEAAwAAAAAAAAAAAAABEQAhMUFRYZH/2gAIAQEAAT8QefcUOmVZcYwSlrPDhipSRlciQDWxXvFklC7x4ABHlaoUk16ml7ANQCoEEPU//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210319 144810&quot; title src=&quot;/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-d564d.jpg&quot; srcset=&quot;/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-865fd.jpg 240w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-d40a0.jpg 480w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-d564d.jpg 960w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-c67c1.jpg 1440w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-667be.jpg 1920w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-85f07.jpg 2880w,
+/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-a97ee.jpg 3456w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;I adopted the gluing process demonstrated by Pablo Requeña in one of his Youtube videos: taping carefully the full rosette together, popping it out of the channel with a knife, quickly pouring yellow glue and inserting it back. Left is after taping the rosette, right is what it looked like when taking it out, just before gluing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-27bc9.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.01692620176033%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABYq2I0nNGp//EABoQAAICAwAAAAAAAAAAAAAAAAECEBEAAyL/2gAIAQEAAQUCYdMKjauNcf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAGBAAAgMAAAAAAAAAAAAAAAAAECEAETH/2gAIAQEABj8CorYx/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQEAAT8h4hEOM1uEFcQ//9oADAMBAAIAAwAAABA3L//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/EKP/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QET//xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFhkf/aAAgBAQABPxAkAWlqyzcd8wJdRdRwTHVHtK+BsQNHCf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;final rosette&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-d564d.jpg&quot;
+        srcset=&quot;/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-865fd.jpg 240w,
+/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-d40a0.jpg 480w,
+/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-d564d.jpg 960w,
+/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-c67c1.jpg 1440w,
+/static/1616272184833-a0136660f85dde245b5b17bfafd789ad-27bc9.jpg 1477w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;It has many mistakes, gaps, the channel edges could be cleaner… but it is my first rosette, and I was expecting much worse! I am afraid attempting to fix the mistakes with epoxy filling would make things worse, so I shall be content with this first attempt.&lt;/p&gt;
 &lt;h3&gt;Thicknessing the soundboard&lt;/h3&gt;
 &lt;p&gt;After inlaying the rosette, the next step is to turn over the soundboard and remove material on the inside to reach a desired thickness.&lt;/p&gt;
 &lt;p&gt;
