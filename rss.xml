@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Mar 2021 04:57:18 GMT</lastBuildDate><item><title><![CDATA[Journal: First Guitar Build]]></title><description><![CDATA[As I often do, I *may* have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm (...)]]></description><link>https://temigo.github.io/posts/guitar_build/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_build/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is being updated over time as the build progresses. Stay tuned!&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Laura Domine]]></title><description><![CDATA[Laura Domine]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Mar 2021 06:42:54 GMT</lastBuildDate><item><title><![CDATA[Journal: First Guitar Build]]></title><description><![CDATA[As I often do, I *may* have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm (...)]]></description><link>https://temigo.github.io/posts/guitar_build/</link><guid isPermaLink="false">https://temigo.github.io/posts/guitar_build/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is being updated over time as the build progresses. Stay tuned!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;As I often do, I &lt;em&gt;may&lt;/em&gt; have underestimated how long it would take to see the end of my first guitar build. This is my travel journal to remember the long journey that started in December 2020. I made my own plans for a 7/8 classical guitar with a scale length of 630mm, inspired by the Cordoba Dolce 7/8 whose size I really liked when I had a chance to try it out in person some time ago. Since it is my first build, the wood choices are conservative: the top is cedar and back/sides are maple.&lt;/p&gt;
 &lt;h3&gt;Headstock&lt;/h3&gt;
 &lt;p&gt;Started with making the neck/headstock scarf joint, then gluing the head veneer and shaping the head. I forgot to take pictures before the end of this first step, I think. I borrowed the crest shape from Robert Bouchet, I liked its simplicity.&lt;/p&gt;
@@ -362,7 +362,7 @@
   &lt;/a&gt;
     
 &lt;/div&gt;
-&lt;div style=&quot;flex: 30%&quot;&gt;
+&lt;div style=&quot;flex: 30%; padding-right: 1em&quot;&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210319_144810-a79a6b3b70f4cd6c0e21ab4bcc4559d8-a97ee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -381,8 +381,27 @@
   &lt;/a&gt;
     
 &lt;/div&gt;
+&lt;div style=&quot;flex: 30%&quot;&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-e6391.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 960px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABmNY0K1SP/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAECEjEi/9oACAEBAAEFAltChhLqME6//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAaEAACAgMAAAAAAAAAAAAAAAAAARAREiEx/9oACAEBAAY/Ap2UhZdP/8QAGRABAQADAQAAAAAAAAAAAAAAAQAxQXER/9oACAEBAAE/ITEazcQ6L3iGEXe//9oADAMBAAIAAwAAABCI/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QDYX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QW2t//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAIVExQf/aAAgBAQABPxCpKhfxyu9+vclay7neAfR0UGXEZipEEjf/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;20210320 124458&quot; title src=&quot;/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-d564d.jpg&quot; srcset=&quot;/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-865fd.jpg 240w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-d40a0.jpg 480w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-d564d.jpg 960w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-c67c1.jpg 1440w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-667be.jpg 1920w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-85f07.jpg 2880w,
+/static/20210320_124458-6538e205200bf58e8bf5665a1e24bf3b-e6391.jpg 4608w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
 &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;I adopted the gluing process demonstrated by Pablo Requeña in one of his Youtube videos: taping carefully the full rosette together, popping it out of the channel with a knife, quickly pouring yellow glue and inserting it back. Left is after taping the rosette, right is what it looked like when taking it out, just before gluing.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;I adopted the gluing process demonstrated by Pablo Requeña in one of his Youtube videos: taping carefully the full rosette together, popping it out of the channel with a knife, quickly pouring yellow glue and inserting it back. Left is after taping the rosette, middle is what it looked like when taking it out, just before gluing. Right is the messy cleanup after letting the glue dry overnight, using card scrapers. In the middle of this mess, this is when I was the most worried about discovering purfling strips that actually jumped out of the channel and were doomed to disappear after flattening (that partially happened to one of them, sigh) or scraping through the first layer of veneer and exposing the veneer glue (ugh, thankfully that did not happen in the visible portion of the rosette).&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
