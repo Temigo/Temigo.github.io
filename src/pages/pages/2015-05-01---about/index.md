@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: page
-path: "/"
+path: "/about"
 ---
 
 I am a postdoctoral research fellow at the [Center for Astrophysics, Harvard-Smithsonian](https://www.cfa.harvard.edu/).

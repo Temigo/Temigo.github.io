@@ -2,29 +2,16 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Post from '../components/Post';
 import Sidebar from '../components/Sidebar';
+import PageTemplateDetails from '../components/PageTemplateDetails';
 
 class IndexRoute extends React.Component {
   render() {
     const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
-    const posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach((post) => {
-      items.push(<Post data={post} key={post.node.fields.slug} />);
-    });
 
     return (
       <div>
-        <Helmet>
-          <title>{title}</title>
-          <meta name="description" content={subtitle} />
-        </Helmet>
-        <Sidebar {...this.props} />
-        <div className="content">
-          <div className="content__inner">
-              <h1 className="page__title">Blog</h1>
-            {items}
-          </div>
-        </div>
+        <PageTemplateDetails {...this.props} />
       </div>
     );
   }
@@ -55,24 +42,15 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(
-        limit: 1000,
-        filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } },
-        sort: { order: DESC, fields: [frontmatter___date] }
-      ){
-      edges {
-        node {
-          fields {
-            slug
-            categorySlug
-          }
-          frontmatter {
-            title
-            date
-            category
-            description
-          }
-        }
+    markdownRemark(
+      fields: { slug: { eq: "/about" } }
+    ) {
+      id
+      html
+      frontmatter {
+        title
+        date
+        description
       }
     }
   }
