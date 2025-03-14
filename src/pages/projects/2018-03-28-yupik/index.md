@@ -22,8 +22,8 @@ We wrote a morphological rule-based parser for the Yup'ik Eskimo language and co
 We developed and launched in October 2018 __[Yugtun](http://www.yugtun.com)__, a language and dictionary tool for Yup'ik Eskimo which is available online to help revitalize the language.
 
 
-
-[Final Report](http://web.stanford.edu/class/cs224n/reports/6907893.pdf) /
+[arXiv](https://arxiv.org/abs/2009.04087) / 
+[Final Report](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6907893.pdf) /
 [Machine Translation Code](https://github.com/cwtliu/yupik-mt) /
 [Yuarcuun API Code](https://github.com/Temigo/yuarcuun-api) /
 [Yuarcuun Web interface](https://github.com/Temigo/yuarcuun-web)

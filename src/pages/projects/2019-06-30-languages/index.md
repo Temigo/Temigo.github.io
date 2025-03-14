@@ -29,4 +29,10 @@ With Christopher W. Liu, developed an educational app to facilitate Yup'ik langu
 ![](./all.jpeg)
 *Built with :blue_heart: using [React Native](https://reactnative.dev/), [PouchDB](https://pouchdb.com/) and [CouchDB](https://couchdb.apache.org/).*
 
+#### __Naaqerkat__ app
+Developed with Christopher W. Liu, this is a children's ebooks app in Yup'ik, with audio and word-by-word explanations. Also includes flash cards and language exercises. Available for free on [Google Play Store](https://play.google.com/store/apps/details?id=com.yugtunbooks&hl=en&gl=US) and [Apple Store](https://apps.apple.com/us/app/naaqerkat/id1522318403).
+
+![](./all2.jpeg)
+*Built with :blue_heart: using [React Native](https://reactnative.dev/)*
+
 Also see my previous [project on machine translation](/projects/yupik) between Yup'ik Eskimo and English.

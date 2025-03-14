@@ -3,46 +3,48 @@ title: "Research"
 layout: page
 path: "/research"
 ---
-This is where you can learn more about my PhD research. You can also read about my other projects [here](/projects).
 
-## Some context: LArTPC and Deep learning
+### Current research
+Credible witnesses report unidentified aerial phenomena (UAP) that have properties and kinematics purportedly outside the performance envelope of known phenomena.
+Whether a new rare atmospheric phenomenon or evidence of an extrasolar technosignature, we simply lack the scientific data that is required to elucidate the nature of Unidentified Aerial Phenomena (UAP), owing to historical stigma and the dearth of dedicated experimental studies.
+NASA highlighted in 2023 in an independent study the need for "purpose-built future sensors for UAP detection" and "multisensor platforms ... for providing a complete picture of a UAP event".
+Instrumentation-based UAP investigations collect vast amounts of data: they require machine learning models to detect, classify and identify all natural and man-made objects, using multiple modalities, before searching for any potentially novel class of objects.
+I am interested in building a multimodal foundation model for generalized class discovery that  can be distilled to other smaller multisensor platforms.
 
-**Liquid Argon Time Projecting Chambers** (LArTPC) are a type of neutrino detectors, a modern bubble chamber aiming at improving the range and precision of low-energy neutrino scattering measurements. They can help address questions beyond the Standard Model of particle physics such as: what are the neutrinos masses and why are they so much smaller than the masses of all other particles? Are there sterile neutrinos?  
+### Past research
+I worked in the [Neutrino Group](https://sites.slac.stanford.edu/neutrino/) at SLAC National Accelerator Laboratory under the supervision of [Kazuhiro Terao](http://www.codingkazu.com) and [Hirohisa Tanaka](https://profiles.stanford.edu/hirohisa-tanaka). My main focus was on deep learning applications to data reconstruction and analysis of neutrino detectors based on liquid argon time projection chambers (LArTPC), such as [ICARUS](https://icarus.fnal.gov/).
+You can read about my [PhD research on ML for neutrino detectors](/neutrino) and [other projects](/projects).
 
-![3D imaging of neutrino interaction event in MicroBooNE LArTPC](./MicroBooNE3DEvent.jpg)
-*3D imaging of neutrino interaction event in MicroBooNE LArTPC experiment*
+### Publications
+L. Dominé, Biswas A., Cloete R., Delacroix A., Fedorenko A., Jacaruso L., Kelderman E., Keto E., Little S., Loeb A., Masson E., Prior
+M., Schultz F., Szenher M., Watters W., White A. (2025) [Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne
+Objects](https://www.mdpi.com/1424-8220/25/3/783) *Sensors 25(3), 783*
 
-A LArTPC is made of a huge cuve filled with liquid argon and equipped with an electric field. Neutrinos entering the detector collide with argon atoms and knock out a proton or a neutron. Scintillation light is detected with photomultiplier tubes (PMT) and ionization electrons drift through the electric field towards detectors (e.g. wire planes in [MicroBooNE](http://microboone.fnal.gov/) experiment).
+L. Dominé, P. Côte de Soux, F. Drielsma, D. H. Koh, R. Itay, Q. Lin, K. Terao, K. V. Tsang, and T. L. Usher (on behalf of the DeepLearn-
+Physics Collaboration) (2021) [Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid
+Argon Time Projection Chambers](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.032004) *Physical Review D 104, 032004*
 
-![AlphaGo](./alphago.jpg)
-*AlphaGo developed by Google DeepMind won against world-class Go player Lee Sedol.*
+F. Drielsma, Q. Lin, P. Côte de Soux, L. Dominé, R. Itay, D. H. Koh, B. J. Nelson, K. Terao, K. V. Tsang, and T. L. Usher (DeepLearnPhysics
+Collaboration) (2021) [Clustering of Electromagnetic Showers and Particle Interactions with Graph Neural Networks in Liquid Argon
+Time Projection Chambers Data](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.072004) *Physical Review D 104, 072004*
 
-**Deep neural networks** have had mind-blowing success within the past few years. They beat human-level performance in computer vision and natural language processing tasks. We are developing a full 2D & 3D reconstruction chain for LArTPC detectors using deep learning.
+F. Drielsma, K. Terao, L. Dominé, D. H. Koh (2020) [Scalable, End-to-End, Deep-Learning-Based Data Reconstruction Chain for
+Particle Imaging Detectors](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_149.pdf) *Third Workshop on Machine Learning and the Physical Sciences (NeurIPS 2020)*
 
-## Pixel Proposal Network
+L. Dominé, K. Terao (2020) [Scalable Deep Convolutional Neural Networks for Sparse, Locally Dense Liquid Argon Time Projection
+Chamber Data](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.012005) *Physical Review D 102, 012005*
 
-LArTPCs provide fine-grained 2D or 3D images of energy depositions. They are made mainly of particle tracks and electromagnetic showers. Identifying their start and end points at a pixel-level both in 2D and 3D is a critical step to be able to further reconstruct the event (clustering, etc).
-To this end we designed and trained a deep neural network architecture, Pixel Proposal Network (PPN), inspired by [Faster R-CNN](https://arxiv.org/abs/1506.01497). It can be trained together with UResNet, another deep neural network based on [U-Net](https://arxiv.org/abs/1505.04597) architecture that can perform pixel-level semantic segmentation on our LArTPC images.
+L. Dominé, G. Giacalone, C. Lorcé, S. Munier, S. Pekar (2018) [Gluon density fluctuations in dilute hadrons](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114032) *Physical Review D 98, 114032*
 
-![Output example](./ppn1.png)
-*2D and 3D examples using a simulation sample. The first row is the input images from the LArTPC. The second row is the output of our network. Yellow pixels were labeled by UResNet network as particle tracks, cyan pixels as electromagnetic showers. The red dots are the start/end points predicted by our network PPN.*
+### Preprints / in review
+K. Knuth, P. Ailleris, H. Agrama, E. Ansbro, T. Cai, T. Canuti, M. Cifone, W.B. Cornet, F. Courtade, R. Dolan, L. Dominé, L. Dini, B.
+Friscourt, R. Graves, R. Haines, R. Hoffman, H. Kayal, S. Little, G. Nolan, R. Powell, M. Rodeghier, E. Russo, P. Skafish, E. Strand, M.
+Swords, M. Szydagis, G. Tedesco, J. Tedesco, M. Teodorani, J. Vallée, M. Vaillant, B. Villarroel, W. Watters. (2025) [The New Science
+of Unidentified Aerospace-Undersea Phenomena (UAP)](https://www.arxiv.org/abs/2502.06794) *Submitted*
 
-[Github repository for PPN](https://github.com/Temigo/faster-particles)
+C. Liu, L. Dominé, K. Chavez, R. Socher (2020) [Central Yup’ik and Machine Translation of Low-Resource Polysynthetic Languages](https://arxiv.org/abs/2009.04087)
+*arXiV preprint:2009.04087*
 
-[Applying Deep Neural Network Techniques for LArTPC Data Reconstruction (poster at Neutrino 2018)](https://zenodo.org/record/1300713)
-
-## Submanifold Sparse Convolutional Networks for LArTPC data
-
-Convolutional Neural Networks (CNNs) apply a chain of matrix multiplications and additions, and can be massively parallelized on many-core systems such as GPUs when applied on image data analysis. Yet a unique feature of LArTPC data challenges traditional CNN algorithms: it is locally dense (no gap in a particle trajectory) but generally sparse. A typical 2D LArTPC image has less than 1% of pixels occupied with non-zero value. This makes standard CNNs with dense matrix operations very inefficient. [Submanifold sparse convolutional networks (SSCN)](https://github.com/facebookresearch/SparseConvNet) have been proposed to address exactly this class of sparsity challenges by keeping the same level of sparsity throughout the network. We demonstrated their strong performance on some of our data reconstruction tasks which include 3D semantic segmentation for particle identification at the pixel-level. They outperformed a standard, dense CNN in an accuracy metric with substantially less computations. SSCN can address the problem of computing resource scalability for 3D DL-based data reconstruction chain R&D for LArTPC detectors.
-
-[Slides from talk @ 2018 CPAD Instrumentation Frontier Workshop](https://indico.fnal.gov/event/18104/session/23/contribution/78/material/slides/0.pdf)
-
-[Scalable Deep Convolutional Neural Networks for Sparse, Locally Dense Liquid Argon Time Projection Chamber Data](https://arxiv.org/abs/1903.05663)
-
-
-## Learn more about...
-[Neural networks for neutrinos (Symmetry Magazine)](https://www.symmetrymagazine.org/article/neural-networks-for-neutrinos)
-
-[Game-changing neutrino experiments (Symmetry Magazine)](https://www.symmetrymagazine.org/article/game-changing-neutrino-experiments)
-
-[DeepLearnPhysics](http://deeplearnphysics.org/), a group of experimental particle physicists interested in the application of modern machine learning techniques to analyze experimental physics data.
+D. H. Koh, P. Côte de Soux, L. Dominé, F. Drielsma, R. Itay, Q. Lin, K. Terao, K. V. Tsang, T. Usher (for the DeepLearnPhysics Collabora-
+tion) (2020) [Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction
+in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083) *arXiV preprint:2007.03083*

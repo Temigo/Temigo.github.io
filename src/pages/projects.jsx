@@ -10,7 +10,7 @@ class IndexRoute extends React.Component {
     const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
     const posts = this.props.data.allMarkdownRemark.edges;
-    console.log('Hi');
+    //console.log('Hi');
     posts.forEach((post) => {
       items.push(<Project data={post} key={post.node.fields.slug} />);
     });

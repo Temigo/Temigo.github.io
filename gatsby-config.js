@@ -2,14 +2,15 @@ module.exports = {
   siteMetadata: {
     url: 'https://temigo.github.io',
     title: 'Laura Domine',
-    subtitle: 'Physics Ph.D. student',
+    subtitle: 'Postdoc',
     copyright: 'Powered by Gatsby. © All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Blog',
+        label: 'About',
         path: '/'
       },
+
       {
         label: 'Research',
         path: '/research'
@@ -19,8 +20,8 @@ module.exports = {
         path: '/projects',
       },
       {
-        label: 'About',
-        path: '/about/'
+        label: 'Blog',
+        path: '/blog'
       },
       {
         label: 'Contact',
@@ -29,7 +30,7 @@ module.exports = {
     ],
     author: {
       name: 'Laura Domine',
-      email: 'ldomine@stanford.edu',
+      email: 'laura.domine@cfa.harvard.edu',
       telegram: '#',
       twitter: '#',
       github: 'Temigo',
