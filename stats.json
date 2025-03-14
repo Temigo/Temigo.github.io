@@ -33,8 +33,8 @@
       "path---projects-yupik-6e72a5bf75554c8de0ba.js.map"
     ],
     "path---blog": [
-      "path---blog-20fab18468a1a0b670bf.js",
-      "path---blog-20fab18468a1a0b670bf.js.map"
+      "path---blog-addfe9834eb8ea03f5b9.js",
+      "path---blog-addfe9834eb8ea03f5b9.js.map"
     ],
     "path---posts-workbench": [
       "path---posts-workbench-fbf3baf15280b11571d5.js",
@@ -93,8 +93,8 @@
       "component---src-pages-categories-jsx-1ff84966f84b04ce4b5d.js.map"
     ],
     "path---index": [
-      "path---index-20fab18468a1a0b670bf.js",
-      "path---index-20fab18468a1a0b670bf.js.map"
+      "path---index-e25adf80dbebc7c2fcdb.js",
+      "path---index-e25adf80dbebc7c2fcdb.js.map"
     ],
     "component---src-templates-project-template-jsx": [
       "component---src-templates-project-template-jsx-d10ab9986453a40d4547.js",
@@ -105,8 +105,8 @@
       "path---posts-guitar-design-62eb646b78914a86aab0.js.map"
     ],
     "path---categories-woodworking": [
-      "path---categories-woodworking-09f162b58371806d54ce.js",
-      "path---categories-woodworking-09f162b58371806d54ce.js.map"
+      "path---categories-woodworking-8b3bdcb0a1f5a79283e5.js",
+      "path---categories-woodworking-8b3bdcb0a1f5a79283e5.js.map"
     ],
     "commons": [
       "commons-3ab5a7b44213a255cbda.js",
@@ -147,12 +147,12 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-woodworking": [
-      "path---tags-woodworking-ae0252f0d002945042a7.js",
-      "path---tags-woodworking-ae0252f0d002945042a7.js.map"
+      "path---tags-woodworking-b63cbecb28973e6b6b66.js",
+      "path---tags-woodworking-b63cbecb28973e6b6b66.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-4e0cce4b0a618a4b0f14.js",
-      "component---src-pages-index-jsx-4e0cce4b0a618a4b0f14.js.map"
+      "component---src-pages-index-jsx-7d82ca9ef0d5a2efb4ed.js",
+      "component---src-pages-index-jsx-7d82ca9ef0d5a2efb4ed.js.map"
     ],
     "path---posts-guitar-build": [
       "path---posts-guitar-build-11f198fbf341b8dd7fd1.js",
@@ -163,8 +163,8 @@
       "path---tags-sf-5be66dbf415a1e165f6a.js.map"
     ],
     "app": [
-      "app-e75b72bfb0da5ee7c44f.js",
-      "app-e75b72bfb0da5ee7c44f.js.map"
+      "app-6889b88d5aa6d68d4bfe.js",
+      "app-6889b88d5aa6d68d4bfe.js.map"
     ],
     "path---categories-languages": [
       "path---categories-languages-e2c1b4b38a23c9265424.js",
@@ -181,6 +181,10 @@
     "path---404": [
       "path---404-6bd9391646fb4391b9e8.js",
       "path---404-6bd9391646fb4391b9e8.js.map"
+    ],
+    "path---about": [
+      "path---about-dcf473da23b79edfbc2e.js",
+      "path---about-dcf473da23b79edfbc2e.js.map"
     ],
     "path---posts-luminous": [
       "path---posts-luminous-2509ae5ad65213b3b446.js",
