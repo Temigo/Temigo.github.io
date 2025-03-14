@@ -1,2 +1,0 @@
-webpackJsonp([0xa2868bfb69fc],{386:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Laura Domine",subtitle:"Physics Ph.D. student",copyright:"Powered by Gatsby. © All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"Projects",path:"/projects"},{label:"About",path:"/about/"},{label:"Contact",path:"/contact/"}],author:{name:"Laura Domine",email:"ldomine@stanford.edu",telegram:"#",twitter:"#",github:"Temigo",rss:"#",vk:"#"}}}},pathContext:{}}}});
-//# sourceMappingURL=path---404-html-10a8bd7a5548d8404963.js.map

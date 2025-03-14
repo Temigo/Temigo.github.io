@@ -1,178 +1,190 @@
 {
   "assetsByChunkName": {
     "component---src-templates-tag-template-jsx": [
-      "component---src-templates-tag-template-jsx-ed5d90d698ceea63ea43.js",
-      "component---src-templates-tag-template-jsx-ed5d90d698ceea63ea43.js.map"
+      "component---src-templates-tag-template-jsx-06fbd3473ea34e10770a.js",
+      "component---src-templates-tag-template-jsx-06fbd3473ea34e10770a.js.map"
     ],
     "path---posts-gits": [
-      "path---posts-gits-805b72e18c1e78b4b2b0.js",
-      "path---posts-gits-805b72e18c1e78b4b2b0.js.map"
+      "path---posts-gits-c66faef36b765187b64d.js",
+      "path---posts-gits-c66faef36b765187b64d.js.map"
     ],
     "component---src-templates-page-template-jsx": [
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js",
       "component---src-templates-page-template-jsx-994fa15cdac2f9049e27.js.map"
     ],
     "component---src-pages-projects-jsx": [
-      "component---src-pages-projects-jsx-8b66ababf80435e7e1a0.js",
-      "component---src-pages-projects-jsx-8b66ababf80435e7e1a0.js.map"
+      "component---src-pages-projects-jsx-f29634447ee744531011.js",
+      "component---src-pages-projects-jsx-f29634447ee744531011.js.map"
     ],
     "path---projects-whisper-app": [
-      "path---projects-whisper-app-9888d43dcdae5a095959.js",
-      "path---projects-whisper-app-9888d43dcdae5a095959.js.map"
+      "path---projects-whisper-app-f21392a9c057b9f70e2f.js",
+      "path---projects-whisper-app-f21392a9c057b9f70e2f.js.map"
     ],
     "path---categories": [
-      "path---categories-61ff33c2f7cc3633bc25.js",
-      "path---categories-61ff33c2f7cc3633bc25.js.map"
+      "path---categories-7584b28e1f462822d4f4.js",
+      "path---categories-7584b28e1f462822d4f4.js.map"
     ],
     "component---src-pages-tags-jsx": [
       "component---src-pages-tags-jsx-0f32f31ba245f3498615.js",
       "component---src-pages-tags-jsx-0f32f31ba245f3498615.js.map"
     ],
     "path---projects-yupik": [
-      "path---projects-yupik-6c1a1cf69e1ab1c8c5e7.js",
-      "path---projects-yupik-6c1a1cf69e1ab1c8c5e7.js.map"
+      "path---projects-yupik-6e72a5bf75554c8de0ba.js",
+      "path---projects-yupik-6e72a5bf75554c8de0ba.js.map"
+    ],
+    "path---blog": [
+      "path---blog-20fab18468a1a0b670bf.js",
+      "path---blog-20fab18468a1a0b670bf.js.map"
     ],
     "path---posts-workbench": [
-      "path---posts-workbench-4f9e26898dca3dd000c8.js",
-      "path---posts-workbench-4f9e26898dca3dd000c8.js.map"
+      "path---posts-workbench-fbf3baf15280b11571d5.js",
+      "path---posts-workbench-fbf3baf15280b11571d5.js.map"
     ],
     "path---tags": [
-      "path---tags-d5c8509eb842a977a9c3.js",
-      "path---tags-d5c8509eb842a977a9c3.js.map"
+      "path---tags-d984fbb79f0cd2ad04a9.js",
+      "path---tags-d984fbb79f0cd2ad04a9.js.map"
     ],
     "path---tags-languages": [
-      "path---tags-languages-d36f6087ddb5451bcf4f.js",
-      "path---tags-languages-d36f6087ddb5451bcf4f.js.map"
+      "path---tags-languages-65686d311146e7f234e8.js",
+      "path---tags-languages-65686d311146e7f234e8.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---projects-cloud": [
-      "path---projects-cloud-b8ab1bc880bd52a4923e.js",
-      "path---projects-cloud-b8ab1bc880bd52a4923e.js.map"
+      "path---projects-cloud-d4707f0d5fe499f51de6.js",
+      "path---projects-cloud-d4707f0d5fe499f51de6.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-a5385cafef3e91fd801f.js",
-      "component---src-layouts-index-jsx-a5385cafef3e91fd801f.js.map"
+      "component---src-layouts-index-jsx-0601d7f1400aa9edb2ce.js",
+      "component---src-layouts-index-jsx-0601d7f1400aa9edb2ce.js.map"
     ],
     "component---src-templates-category-template-jsx": [
-      "component---src-templates-category-template-jsx-b755cb17ab99eccccdc1.js",
-      "component---src-templates-category-template-jsx-b755cb17ab99eccccdc1.js.map"
+      "component---src-templates-category-template-jsx-cf1c8b990648253d5738.js",
+      "component---src-templates-category-template-jsx-cf1c8b990648253d5738.js.map"
     ],
     "path---projects": [
-      "path---projects-838a0afa90da1534c571.js",
-      "path---projects-838a0afa90da1534c571.js.map"
+      "path---projects-9ca6240939b3fc6570c1.js",
+      "path---projects-9ca6240939b3fc6570c1.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---research": [
-      "path---research-4645d3fd2d5b365514c3.js",
-      "path---research-4645d3fd2d5b365514c3.js.map"
+      "path---research-c2261f6949691335bf77.js",
+      "path---research-c2261f6949691335bf77.js.map"
     ],
     "path---categories-sf": [
-      "path---categories-sf-4ad5ec7e841b6ffcd6c1.js",
-      "path---categories-sf-4ad5ec7e841b6ffcd6c1.js.map"
+      "path---categories-sf-8f5b00b0dbd6e25de02d.js",
+      "path---categories-sf-8f5b00b0dbd6e25de02d.js.map"
     ],
     "component---src-templates-post-template-jsx": [
-      "component---src-templates-post-template-jsx-7ac5301b4702c1d662dc.js",
-      "component---src-templates-post-template-jsx-7ac5301b4702c1d662dc.js.map"
+      "component---src-templates-post-template-jsx-4749525bb67cd9d7c068.js",
+      "component---src-templates-post-template-jsx-4749525bb67cd9d7c068.js.map"
+    ],
+    "path---posts-hall-tree": [
+      "path---posts-hall-tree-42d30141f989ba189a77.js",
+      "path---posts-hall-tree-42d30141f989ba189a77.js.map"
     ],
     "component---src-pages-categories-jsx": [
       "component---src-pages-categories-jsx-1ff84966f84b04ce4b5d.js",
       "component---src-pages-categories-jsx-1ff84966f84b04ce4b5d.js.map"
     ],
     "path---index": [
-      "path---index-068e6d57db1af0b696dd.js",
-      "path---index-068e6d57db1af0b696dd.js.map"
+      "path---index-20fab18468a1a0b670bf.js",
+      "path---index-20fab18468a1a0b670bf.js.map"
     ],
     "component---src-templates-project-template-jsx": [
-      "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js",
-      "component---src-templates-project-template-jsx-bdbcc840d26a0e56b910.js.map"
+      "component---src-templates-project-template-jsx-d10ab9986453a40d4547.js",
+      "component---src-templates-project-template-jsx-d10ab9986453a40d4547.js.map"
     ],
     "path---posts-guitar-design": [
-      "path---posts-guitar-design-5db052c709e471e67d21.js",
-      "path---posts-guitar-design-5db052c709e471e67d21.js.map"
+      "path---posts-guitar-design-62eb646b78914a86aab0.js",
+      "path---posts-guitar-design-62eb646b78914a86aab0.js.map"
     ],
     "path---categories-woodworking": [
-      "path---categories-woodworking-e3da5352a4d92cc01d36.js",
-      "path---categories-woodworking-e3da5352a4d92cc01d36.js.map"
+      "path---categories-woodworking-09f162b58371806d54ce.js",
+      "path---categories-woodworking-09f162b58371806d54ce.js.map"
     ],
     "commons": [
-      "commons-45b2c422045226750a6e.js",
+      "commons-3ab5a7b44213a255cbda.js",
       "build-js-styles.css",
-      "commons-45b2c422045226750a6e.js.map",
+      "commons-3ab5a7b44213a255cbda.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
-      "path---404-html-65b659864a55a7c98494.js",
-      "path---404-html-65b659864a55a7c98494.js.map"
+      "path---404-html-6bd9391646fb4391b9e8.js",
+      "path---404-html-6bd9391646fb4391b9e8.js.map"
     ],
     "component---src-pages-404-jsx": [
       "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js",
       "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js.map"
     ],
     "path---contact": [
-      "path---contact-2dc4331fadd5b599cafd.js",
-      "path---contact-2dc4331fadd5b599cafd.js.map"
+      "path---contact-0b1d7294121453714c9f.js",
+      "path---contact-0b1d7294121453714c9f.js.map"
+    ],
+    "component---src-pages-blog-jsx": [
+      "component---src-pages-blog-jsx-96094d9c3012ff7cc457.js",
+      "component---src-pages-blog-jsx-96094d9c3012ff7cc457.js.map"
     ],
     "path---posts-piraha": [
-      "path---posts-piraha-f8f10093a3393c325a2c.js",
-      "path---posts-piraha-f8f10093a3393c325a2c.js.map"
+      "path---posts-piraha-20349e9acf32d3a060c4.js",
+      "path---posts-piraha-20349e9acf32d3a060c4.js.map"
     ],
     "path---tags-books": [
-      "path---tags-books-804bb495982839f57600.js",
-      "path---tags-books-804bb495982839f57600.js.map"
+      "path---tags-books-1394e8b3a0e4769542b5.js",
+      "path---tags-books-1394e8b3a0e4769542b5.js.map"
     ],
     "path---projects-languages": [
-      "path---projects-languages-6116826976293093e8b3.js",
-      "path---projects-languages-6116826976293093e8b3.js.map"
+      "path---projects-languages-b71cf60405c6f70809cb.js",
+      "path---projects-languages-b71cf60405c6f70809cb.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-woodworking": [
-      "path---tags-woodworking-e2bef3a36f578d2929ac.js",
-      "path---tags-woodworking-e2bef3a36f578d2929ac.js.map"
+      "path---tags-woodworking-ae0252f0d002945042a7.js",
+      "path---tags-woodworking-ae0252f0d002945042a7.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js",
-      "component---src-pages-index-jsx-8014a303e0c900ecf4d7.js.map"
+      "component---src-pages-index-jsx-4e0cce4b0a618a4b0f14.js",
+      "component---src-pages-index-jsx-4e0cce4b0a618a4b0f14.js.map"
     ],
     "path---posts-guitar-build": [
-      "path---posts-guitar-build-493b091c7ab64b1b702e.js",
-      "path---posts-guitar-build-493b091c7ab64b1b702e.js.map"
+      "path---posts-guitar-build-11f198fbf341b8dd7fd1.js",
+      "path---posts-guitar-build-11f198fbf341b8dd7fd1.js.map"
     ],
     "path---tags-sf": [
-      "path---tags-sf-16c769661a46a747eeef.js",
-      "path---tags-sf-16c769661a46a747eeef.js.map"
+      "path---tags-sf-5be66dbf415a1e165f6a.js",
+      "path---tags-sf-5be66dbf415a1e165f6a.js.map"
     ],
     "app": [
-      "app-ecb55365b800477f2c78.js",
-      "app-ecb55365b800477f2c78.js.map"
+      "app-e75b72bfb0da5ee7c44f.js",
+      "app-e75b72bfb0da5ee7c44f.js.map"
     ],
     "path---categories-languages": [
-      "path---categories-languages-3e24282c80d5fb04069f.js",
-      "path---categories-languages-3e24282c80d5fb04069f.js.map"
+      "path---categories-languages-e2c1b4b38a23c9265424.js",
+      "path---categories-languages-e2c1b4b38a23c9265424.js.map"
     ],
     "path---posts-aymara": [
-      "path---posts-aymara-9cbe7ae7f8ed93b46167.js",
-      "path---posts-aymara-9cbe7ae7f8ed93b46167.js.map"
+      "path---posts-aymara-cd86d473f0121c3cc16f.js",
+      "path---posts-aymara-cd86d473f0121c3cc16f.js.map"
+    ],
+    "path---neutrino": [
+      "path---neutrino-3c5acdd24103046948af.js",
+      "path---neutrino-3c5acdd24103046948af.js.map"
     ],
     "path---404": [
-      "path---404-65b659864a55a7c98494.js",
-      "path---404-65b659864a55a7c98494.js.map"
-    ],
-    "path---about": [
-      "path---about-79be0d15fa63fa562f58.js",
-      "path---about-79be0d15fa63fa562f58.js.map"
+      "path---404-6bd9391646fb4391b9e8.js",
+      "path---404-6bd9391646fb4391b9e8.js.map"
     ],
     "path---posts-luminous": [
-      "path---posts-luminous-c80a011c82908ae31af7.js",
-      "path---posts-luminous-c80a011c82908ae31af7.js.map"
+      "path---posts-luminous-2509ae5ad65213b3b446.js",
+      "path---posts-luminous-2509ae5ad65213b3b446.js.map"
     ]
   }
 }

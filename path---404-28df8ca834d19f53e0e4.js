@@ -1,2 +1,0 @@
-webpackJsonp([0xe70826b53c04],{352:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Blog by Laura Domine",subtitle:"",copyright:"Powered by Gatsby. © All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About",path:"/about/"},{label:"Contact",path:"/contact/"}],author:{name:"Laura Domine",email:"ldomine@stanford.edu",telegram:"#",twitter:"#",github:"Temigo",rss:"#",vk:"#"}}}},pathContext:{}}}});
-//# sourceMappingURL=path---404-28df8ca834d19f53e0e4.js.map
